@@ -63,6 +63,7 @@ export const tokenPathTransformer: Named<Transform> = {
           "core",
           "fontFamily",
         ]);
+      default:
         break;
     }
     return attributes;
@@ -72,6 +73,7 @@ export const tokenPathTransformer: Named<Transform> = {
 export const tailwindTransforms = [
   "deriv/paragraph-spacing",
   "deriv/spacing-name",
+  "deriv/token-path",
 ];
 
 export const tailwindTransferGroup: Named<TransformGroup> = {

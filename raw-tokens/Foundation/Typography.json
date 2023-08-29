@@ -102,58 +102,58 @@
       },
       "boldItalic": {
         "type": "fontWeights",
-        "value": "Bold Italic"
+        "value": "italic bold"
       }
     },
     "lineHeight": {
       "100": {
         "type": "lineHeights",
-        "value": "18",
+        "value": "18px",
         "description": "1.125rem"
       },
       "200": {
         "type": "lineHeights",
-        "value": "22",
+        "value": "22px",
         "description": "1.375rem"
       },
       "300": {
         "type": "lineHeights",
-        "value": "24",
+        "value": "24px",
         "description": "1.5rem"
       },
       "400": {
         "type": "lineHeights",
-        "value": "28",
+        "value": "28px",
         "description": "1.75rem"
       },
       "500": {
         "type": "lineHeights",
-        "value": "30",
+        "value": "30px",
         "description": "1.875rem"
       },
       "600": {
         "type": "lineHeights",
-        "value": "32",
+        "value": "32px",
         "description": "2rem"
       },
       "700": {
         "type": "lineHeights",
-        "value": "36",
+        "value": "36px",
         "description": "2.25rem"
       },
       "800": {
         "type": "lineHeights",
-        "value": "48",
+        "value": "48px",
         "description": "3rem"
       },
       "900": {
         "type": "lineHeights",
-        "value": "64",
+        "value": "64px",
         "description": "4rem"
       },
       "1000": {
         "type": "lineHeights",
-        "value": "96",
+        "value": "96px",
         "description": "6rem"
       },
       "auto": {

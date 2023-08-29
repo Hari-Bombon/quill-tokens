@@ -43,6 +43,13 @@ const formatObjectTokens = (tokens: TransformedToken[]) => {
 };
 
 const formatter: Formatter = ({ dictionary, file, options, platform }) => {
+  const shouldUseCoreVariables = options?.useCoreVariables || false;
+  dictionary.allTokens.forEach((token) => {
+    if (token.path.includes("semantic") || shouldUseCoreVariables) {
+      token["value"] = `var(--${token.name})`;
+    }
+  });
+
   dictionary.allTokens.forEach((token) => {
     const tokenType = token.type as QuillTokenType;
     const currentTokens = tokenMap.get(tokenType) || [];

@@ -2,9 +2,14 @@ import { camelCase } from "camel-case";
 import { NestedObj } from "../types";
 import { type TransformedToken } from "style-dictionary";
 
-export const SD_SOURCE_FOLDER = "sd-tokens/**/*.json";
-export const RAW_SOURCE_FOLDER = "raw-tokens/**/*.json";
-export const RAW_FOUNDATION_SOURCE_FOLDER = "raw-tokens/Foundation/**/*.json";
+export const RAW_TOKENS_BASE_FOLDER = "raw-tokens";
+
+export const RAW_SOURCE_FOLDER = `${RAW_TOKENS_BASE_FOLDER}/**/*.json`;
+export const RAW_FOUNDATION_SOURCE_FOLDER = `${RAW_TOKENS_BASE_FOLDER}/Foundation/**/*.json`;
+export const BASE_VARIANT_SOURCE_INCLUDES = [
+  `${RAW_TOKENS_BASE_FOLDER}/Semantic/ViewPort/Mobile.json`,
+  `${RAW_TOKENS_BASE_FOLDER}/Semantic/Color/Light.json`,
+];
 
 export const makeNestedObject = <T extends readonly string[]>(
   obj: NestedObj<{ [key: string]: any }>,
