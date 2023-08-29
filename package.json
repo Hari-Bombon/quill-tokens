@@ -4,20 +4,32 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "transform": "token-transformer raw-tokens sd-tokens/tokens.json --expandTypography=true --expandShadow=false --preserveRawValue=true --throwErrorWhenNotResolved=true",
-    "build": "npx ts-node index.ts",
+    "transform": "token-transformer raw-tokens sd-tokens/tokens.json --expandComposition=true --expandTypography=true --expandShadow=false --preserveRawValue=true --throwErrorWhenNotResolved=true",
+    "build": "npm run clean && npx ts-node index.ts",
+    "build-test": "npm run clean && ts-node index.bak.ts",
     "clean": "rimraf sd-tokens dist"
   },
   "keywords": [],
   "author": "Michio",
   "license": "ISC",
   "devDependencies": {
+    "@prettier/sync": "^0.3.0",
+    "@tokens-studio/sd-transforms": "^0.11.0",
+    "@types/lodash-es": "^4.17.8",
     "@types/node": "^20.5.6",
+    "camel-case": "^4.1.2",
+    "lodash-es": "^4.17.21",
+    "prettier": "^3.0.2",
     "rimraf": "^5.0.1",
     "sd-tailwindcss-transformer": "^1.4.0",
     "style-dictionary": "^3.8.0",
     "token-transformer": "^0.0.33",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.197",
+    "lodash": "^4.17.21",
+    "remove": "^0.1.5"
   }
 }

@@ -1,0 +1,18 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  mode: "jit",
+  dark: "<%= darkMode %>",
+  theme: {
+    fontFamily: <%= fontFamily %>,
+    spacing: <%= spacing %>,
+    colors: <%= colors %>,
+    borderRadius: <%= borderRadius %>,
+    borderWidth: <%= borderWidth %>,
+    boxShadow: <%= boxShadow %>,
+    opacity: <%= opacity %>,    
+    fontSize: <%= fontSize %>,    
+    fontWeight: <%= fontWeight %>,   
+    lineHeight: <%= lineHeight %>,       
+    extend: {},
+  },  
+}
