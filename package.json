@@ -41,10 +41,5 @@
     "@types/lodash": "^4.14.197",
     "lodash": "^4.17.21",
     "remove": "^0.1.5"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run lint"
-    }
   }
 }
