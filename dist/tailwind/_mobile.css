@@ -1,0 +1,22 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 30 Aug 2023 11:21:04 GMT
+ */
+
+:root {
+  --semantic-spacing-padding-none: 0px;
+  --semantic-spacing-padding-sm: 8px;
+  --semantic-spacing-padding-md: 16px;
+  --semantic-spacing-padding-lg: 24px;
+  --semantic-spacing-padding-xl: 48px;
+  --semantic-spacing-padding-2xl: 96px;
+  --semantic-spacing-gap-none: 0px;
+  --semantic-spacing-gap-2xs: 1px;
+  --semantic-spacing-gap-xs: 2px;
+  --semantic-spacing-gap-sm: 4px;
+  --semantic-spacing-gap-md: 8px;
+  --semantic-spacing-gap-lg: 16px;
+  --semantic-spacing-gap-xl: 24px;
+  --semantic-spacing-gap-2xl: 48px;
+  --semantic-spacing-gap-3xl: 96px;
+}

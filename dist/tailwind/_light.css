@@ -1,0 +1,21 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 30 Aug 2023 11:21:04 GMT
+ */
+
+html {
+  --semantic-color-background-primary-base: rgba(246, 247, 248,1);
+  --semantic-color-background-primary-container: rgba(255, 255, 255,1);
+  --semantic-color-background-secondary-base: rgba(255, 255, 255,1);
+  --semantic-color-background-secondary-container: rgba(246, 247, 248,1);
+  --semantic-color-background-dialog: rgba(255, 255, 255,1);
+  --semantic-color-typography-prominent: rgba(0, 0, 0, 1);
+  --semantic-color-typography-default: rgba(rgba(0, 0, 0, 1),0.72);
+  --semantic-color-typography-subtle: rgba(rgba(0, 0, 0, 1),0.48);
+  --semantic-color-typography-disabled: rgba(rgba(0, 0, 0, 1),0.24);
+  --semantic-color-typography-link: rgba(255, 68, 79,1);
+  --semantic-color-status-info: rgba(23, 137, 225,1);
+  --semantic-color-status-success: rgba(34, 189, 65,1);
+  --semantic-color-status-warning: rgba(225, 141, 0,1);
+  --semantic-color-status-danger: rgba(219, 8, 0, 1);
+}
