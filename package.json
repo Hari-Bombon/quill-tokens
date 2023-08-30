@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npm run clean && npx ts-node ./src/generators/tailwind/index.ts",
+    "build": "npm run clean && npx ts-node index.ts",
     "clean": "rimraf sd-tokens dist",
     "lint": "eslint src/**/*.ts",
     "format": "eslint src/**/*.ts --fix",

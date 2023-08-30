@@ -20,50 +20,6 @@ StyleDictionary.registerFormat(TailwindFormatter);
 StyleDictionary.registerAction(makeStylesAction);
 StyleDictionary.registerFormat(desktopTargetFormatter);
 
-const SemanticLightSdConfig = StyleDictionary.extend({
-  source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/Color/Light.json`],
-  platforms: {
-    light: {
-      transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
-      buildPath: 'dist/tailwind/',
-      files: [
-        {
-          destination: '_light.css',
-          format: 'css/variables',
-          filter: (token) => token.path.includes('semantic'),
-          options: {
-            selector: 'html',
-            outputReferences: false,
-          },
-        },
-      ],
-    },
-  },
-});
-
-SemanticLightSdConfig.buildAllPlatforms();
-
-const SemanticDarkSdConfig = StyleDictionary.extend({
-  source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/Color/Dark.json`],
-  platforms: {
-    light: {
-      transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
-      buildPath: 'dist/tailwind/',
-      files: [
-        {
-          destination: '_dark.css',
-          format: 'css/variables',
-          filter: (token) => token.path.includes('semantic'),
-          options: {
-            selector: 'html.dark',
-            outputReferences: false,
-          },
-        },
-      ],
-    },
-  },
-});
-
 export const CoreSdConfig = StyleDictionary.extend({
   source: [RAW_FOUNDATION_SOURCE_FOLDER],
   platforms: {
@@ -83,19 +39,59 @@ export const CoreSdConfig = StyleDictionary.extend({
   },
 });
 
-CoreSdConfig.buildAllPlatforms();
+export const SemanticLightSdConfig = StyleDictionary.extend({
+  source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/Color/Light.json`],
+  platforms: {
+    semantic_light: {
+      transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
+      buildPath: 'dist/tailwind/',
+      files: [
+        {
+          destination: '_light.css',
+          format: 'css/variables',
+          filter: (token) => token.path.includes('semantic'),
+          options: {
+            selector: 'html',
+            outputReferences: false,
+          },
+        },
+      ],
+    },
+  },
+});
 
-const SemanticMobileSdConfig = StyleDictionary.extend({
+export const SemanticDarkSdConfig = StyleDictionary.extend({
+  source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/Color/Dark.json`],
+  platforms: {
+    semantic_dark: {
+      transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
+      buildPath: 'dist/tailwind/',
+      files: [
+        {
+          destination: '_dark.css',
+          format: 'css/variables',
+          filter: (token) => token.path.includes('semantic'),
+          options: {
+            selector: 'html.dark',
+            outputReferences: false,
+          },
+        },
+      ],
+    },
+  },
+});
+
+export const SemanticMobileSdConfig = StyleDictionary.extend({
   source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/ViewPort/Mobile.json`],
   platforms: {
-    light: {
+    semantic_mobile: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
       buildPath: 'dist/tailwind/',
       files: [
         {
           destination: '_mobile.css',
           format: 'css/variables',
-          filter: (token) => token.path.includes('semantic'),
+          filter: (token) => token.path.includes('semantic') && token.type !== 'typography',
           options: {
             selector: ':root',
             outputReferences: false,
@@ -106,19 +102,17 @@ const SemanticMobileSdConfig = StyleDictionary.extend({
   },
 });
 
-SemanticMobileSdConfig.buildAllPlatforms();
-
-const SemanticDesktopSdConfig = StyleDictionary.extend({
+export const SemanticDesktopSdConfig = StyleDictionary.extend({
   source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/ViewPort/Desktop.json`],
   platforms: {
-    light: {
+    semantic_desktop: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
       buildPath: 'dist/tailwind/',
       files: [
         {
           destination: '_desktop.css',
           format: 'css/target-desktop',
-          filter: (token) => token.path.includes('semantic'),
+          filter: (token) => token.path.includes('semantic') && token.type !== 'typography',
           options: {
             outputReferences: false,
           },
@@ -128,11 +122,7 @@ const SemanticDesktopSdConfig = StyleDictionary.extend({
   },
 });
 
-SemanticDesktopSdConfig.buildAllPlatforms();
-
-SemanticDarkSdConfig.buildAllPlatforms();
-
-const TailWindSdConfig = StyleDictionary.extend({
+export const TailWindSdConfig = StyleDictionary.extend({
   source: [RAW_FOUNDATION_SOURCE_FOLDER],
   include: [...BASE_VARIANT_SOURCE_INCLUDES],
   platforms: {
@@ -152,5 +142,3 @@ const TailWindSdConfig = StyleDictionary.extend({
     },
   },
 });
-
-TailWindSdConfig.buildAllPlatforms();
