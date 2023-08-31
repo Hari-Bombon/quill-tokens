@@ -2,7 +2,7 @@ import { camelCase } from 'camel-case';
 import { NestedObj } from '../types';
 import { type TransformedToken } from 'style-dictionary';
 
-export const RAW_TOKENS_BASE_FOLDER = 'raw-tokens';
+export const RAW_TOKENS_BASE_FOLDER = 'raw-tokens/data';
 
 export const RAW_SOURCE_FOLDER = `${RAW_TOKENS_BASE_FOLDER}/**/*.json`;
 export const RAW_CORE_SOURCE_FOLDER = `${RAW_TOKENS_BASE_FOLDER}/core/**/*.json`;
