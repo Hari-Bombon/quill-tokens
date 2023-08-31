@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 30 Aug 2023 11:21:04 GMT
+ * Generated on Wed, 30 Aug 2023 17:50:01 GMT
  */
 
 :root {
@@ -88,22 +88,22 @@
   --core-elevation-shadow-720: 32px 0 64px 12px rgba(0, 0, 0, 8%), 32px 0 64px 12px rgba(0, 0, 0, 4%);
   --core-elevation-shadow-730: 0 32px 64px 12px rgba(0, 0, 0, 8%), 0 32px 64px 12px rgba(0, 0, 0, 4%);
   --core-elevation-shadow-740: -32px 0 64px 12px rgba(0, 0, 0, 8%), -32px 0 64px 12px rgba(0, 0, 0, 4%);
-  --core-color-gradient-slate-100: linear-gradient(1.93deg, rgba(rgba(255, 255, 255,1), 0) 1.56%, rgba(255, 255, 255,1) 49.91%);
-  --core-color-gradient-slate-200: linear-gradient(88.07deg, rgba(rgba(255, 255, 255,1), 0) 1.63%, rgba(255, 255, 255,1) 50.02%);
-  --core-color-gradient-slate-300: linear-gradient(181.93deg, rgba(rgba(255, 255, 255,1), 0) 1.63%, rgba(255, 255, 255,1) 50.01%);
-  --core-color-gradient-slate-400: linear-gradient(271.93deg, rgba(rgba(255, 255, 255,1), 0) 1.63%, rgba(255, 255, 255,1) 49.98%);
-  --core-color-gradient-slate-500: linear-gradient(1.93deg, rgba(rgba(246, 247, 248,1), 0) 1.56%, rgba(246, 247, 248,1) 49.91%);
-  --core-color-gradient-slate-600: linear-gradient(88.07deg, rgba(rgba(246, 247, 248,1), 0) 1.63%, rgba(246, 247, 248,1) 50.02%);
-  --core-color-gradient-slate-700: linear-gradient(181.93deg, rgba(rgba(246, 247, 248,1), 0) 1.63%, rgba(246, 247, 248,1) 50.01%);
-  --core-color-gradient-slate-800: linear-gradient(271.93deg, rgba(rgba(246, 247, 248,1), 0) 1.63%, rgba(246, 247, 248,1) 49.98%);
-  --core-color-gradient-slate-900: linear-gradient(1.93deg, rgba(rgba(17, 20, 27, 1), 0) 1.56%, rgba(17, 20, 27, 1) 49.91%);
-  --core-color-gradient-slate-1000: linear-gradient(88.07deg, rgba(rgba(17, 20, 27, 1), 0) 1.63%, rgba(17, 20, 27, 1) 50.02%);
-  --core-color-gradient-slate-1100: linear-gradient(181.93deg, rgba(rgba(17, 20, 27, 1), 0) 1.63%, rgba(17, 20, 27, 1) 50.01%);
-  --core-color-gradient-slate-1200: linear-gradient(271.93deg, rgba(rgba(17, 20, 27, 1), 0) 1.63%, rgba(17, 20, 27, 1) 49.98%);
-  --core-color-gradient-slate-1300: linear-gradient(1.93deg, rgba(rgba(24, 28, 37, 1), 0) 1.56%, rgba(24, 28, 37, 1) 49.91%);
-  --core-color-gradient-slate-1400: linear-gradient(88.07deg, rgba(rgba(24, 28, 37, 1), 0) 1.63%, rgba(24, 28, 37, 1) 50.02%);
-  --core-color-gradient-slate-1500: linear-gradient(181.93deg, rgba(rgba(24, 28, 37, 1), 0) 1.63%, rgba(24, 28, 37, 1) 50.01%);
-  --core-color-gradient-slate-1600: linear-gradient(271.93deg, rgba(rgba(24, 28, 37, 1), 0) 1.63%, rgba(24, 28, 37, 1) 49.98%);
+  --core-color-gradient-slate-110: linear-gradient(1.93deg, rgba( rgba(255, 255, 255,1),0) 1.56%, rgba(255, 255, 255,1) 49.91%);
+  --core-color-gradient-slate-120: linear-gradient(88.07deg, rgba( rgba(255, 255, 255,1),0) 1.63%, rgba(255, 255, 255,1) 50.02%);
+  --core-color-gradient-slate-130: linear-gradient(181.93deg, rgba( rgba(255, 255, 255,1),0) 1.63%, rgba(255, 255, 255,1) 50.01%);
+  --core-color-gradient-slate-140: linear-gradient(271.93deg, rgba( rgba(255, 255, 255,1),0) 1.63%, rgba(255, 255, 255,1) 49.98%);
+  --core-color-gradient-slate-210: linear-gradient(1.93deg, rgba( rgba(246, 247, 248,1),0) 1.56%, rgba(246, 247, 248,1) 49.91%);
+  --core-color-gradient-slate-220: linear-gradient(88.07deg, rgba( rgba(246, 247, 248,1),0) 1.63%, rgba(246, 247, 248,1) 50.02%);
+  --core-color-gradient-slate-230: linear-gradient(181.93deg, rgba( rgba(246, 247, 248,1),0) 1.63%, rgba(246, 247, 248,1) 50.01%);
+  --core-color-gradient-slate-240: linear-gradient(271.93deg, rgba( rgba(246, 247, 248,1),0) 1.63%, rgba(246, 247, 248,1) 49.98%);
+  --core-color-gradient-slate-310: linear-gradient(1.93deg, rgba( rgba(17, 20, 27, 1) ,0) 1.56%, rgba(17, 20, 27, 1) 49.91%);
+  --core-color-gradient-slate-320: linear-gradient(88.07deg, rgba( rgba(17, 20, 27, 1) ,0) 1.63%, rgba(17, 20, 27, 1) 50.02%);
+  --core-color-gradient-slate-330: linear-gradient(181.93deg, rgba( rgba(17, 20, 27, 1) ,0) 1.63%, rgba(17, 20, 27, 1) 50.01%);
+  --core-color-gradient-slate-340: linear-gradient(271.93deg, rgba( rgba(17, 20, 27, 1) ,0) 1.63%, rgba(17, 20, 27, 1) 49.98%);
+  --core-color-gradient-slate-410: linear-gradient(1.93deg, rgba( rgba(24, 28, 37, 1) ,0) 1.56%, rgba(24, 28, 37, 1) 49.91%);
+  --core-color-gradient-slate-420: linear-gradient(88.07deg, rgba( rgba(24, 28, 37, 1) ,0) 1.63%, rgba(24, 28, 37, 1) 50.02%);
+  --core-color-gradient-slate-430: linear-gradient(181.93deg, rgba( rgba(24, 28, 37, 1) ,0) 1.63%, rgba(24, 28, 37, 1) 50.01%);
+  --core-color-gradient-slate-440: linear-gradient(271.93deg, rgba( rgba(24, 28, 37, 1) ,0) 1.63%, rgba(24, 28, 37, 1) 49.98%);
   --core-color-opacity-white-100: rgba(rgba(255, 255, 255,1),0.08);
   --core-color-opacity-white-200: rgba(rgba(255, 255, 255,1),0.16);
   --core-color-opacity-white-300: rgba(rgba(255, 255, 255,1),0.24);
@@ -248,6 +248,18 @@
   --core-color-opacity-cherry-600: rgba(rgba(222, 0, 64,1),0.72); /* 72% of base color */
   --core-color-opacity-cherry-700: rgba(rgba(222, 0, 64,1),0.8); /* 80% of base color */
   --core-color-opacity-cherry-800: rgba(rgba(222, 0, 64,1),0.88); /* 88% of base color */
+  --core-color-opacity-slate-100: rgba(rgba(65, 70, 82,1),0.08); /* Initially 8%. changed to 16%. */
+  --core-color-opacity-slate-200: rgba(rgba(65, 70, 82,1),0.16); /* Initially 8%. changed to 16%. */
+  --core-color-opacity-slate-300: rgba(rgba(65, 70, 82,1),0.24); /* Initially 8%. changed to 16%. */
+  --core-color-opacity-slate-400: rgba(rgba(65, 70, 82,1),0.32); /* Initially 8%. changed to 16%. */
+  --core-color-opacity-slate-500: rgba(rgba(65, 70, 82,1),0.4); /* Initially 8%. changed to 16%. */
+  --core-color-opacity-slate-600: rgba(rgba(65, 70, 82,1),0.48); /* Initially 8%. changed to 16%. */
+  --core-color-opacity-slate-700: rgba(rgba(65, 70, 82,1),0.56); /* Initially 8%. changed to 16%. */
+  --core-color-opacity-slate-800: rgba(rgba(65, 70, 82,1),0.64); /* Initially 8%. changed to 16%. */
+  --core-color-opacity-overflow-100: rgba( rgba(255, 255, 255,1),0);
+  --core-color-opacity-overflow-200: rgba( rgba(246, 247, 248,1),0);
+  --core-color-opacity-overflow-300: rgba( rgba(24, 28, 37, 1) ,0);
+  --core-color-opacity-overflow-400: rgba( rgba(17, 20, 27, 1) ,0);
   --core-color-solid-coral-100: rgba(255, 230, 230, 1);
   --core-color-solid-coral-200: rgba(255, 191, 194,1);
   --core-color-solid-coral-300: rgba(255, 155, 163,1);
@@ -355,7 +367,7 @@
   --core-color-solid-green-1100: rgba(1, 134, 27,1);
   --core-color-solid-green-1200: rgba(0, 106, 18,1);
   --core-color-solid-green-1300: rgba(0, 77, 11,1);
-  --core-color-solid-emerald-100: rgba(230, 255, 249,1);
+  --core-color-solid-emerald-100: rgba(230, 255, 249, 1);
   --core-color-solid-emerald-200: rgba(191, 255, 237,1);
   --core-color-solid-emerald-300: rgba(153, 255, 223,1);
   --core-color-solid-emerald-400: rgba(115, 249, 207,1);
@@ -571,17 +583,17 @@
   --core-font-weight-regular: 400;
   --core-font-weight-bold: 700;
   --core-font-weight-italic: Italic;
-  --core-font-weight-bold-italic: italic bold;
-  --core-line-height-100: 18px; /* 1.125rem */
-  --core-line-height-200: 22px; /* 1.375rem */
-  --core-line-height-300: 24px; /* 1.5rem */
-  --core-line-height-400: 28px; /* 1.75rem */
-  --core-line-height-500: 30px; /* 1.875rem */
-  --core-line-height-600: 32px; /* 2rem */
-  --core-line-height-700: 36px; /* 2.25rem */
-  --core-line-height-800: 48px; /* 3rem */
-  --core-line-height-900: 64px; /* 4rem */
-  --core-line-height-1000: 96px; /* 6rem */
+  --core-font-weight-bold-italic: 700 italic;
+  --core-line-height-100: 18; /* 1.125rem */
+  --core-line-height-200: 22; /* 1.375rem */
+  --core-line-height-300: 24; /* 1.5rem */
+  --core-line-height-400: 28; /* 1.75rem */
+  --core-line-height-500: 30; /* 1.875rem */
+  --core-line-height-600: 32; /* 2rem */
+  --core-line-height-700: 36; /* 2.25rem */
+  --core-line-height-800: 48; /* 3rem */
+  --core-line-height-900: 64; /* 4rem */
+  --core-line-height-1000: 96; /* 6rem */
   --core-line-height-auto: auto;
   --core-font-decoration-underline: underline;
   --core-paragraph-spacing-50: 12px; /* 0.75 rem */

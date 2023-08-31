@@ -1,6 +1,6 @@
 import StyleDictionary from 'style-dictionary';
 import { registerTransforms, transforms as TokenStudioTransforms } from '@tokens-studio/sd-transforms';
-import { BASE_VARIANT_SOURCE_INCLUDES, RAW_FOUNDATION_SOURCE_FOLDER, RAW_TOKENS_BASE_FOLDER } from '../../utils';
+import { BASE_VARIANT_SOURCE_INCLUDES, RAW_CORE_SOURCE_FOLDER, RAW_TOKENS_BASE_FOLDER } from '../../utils';
 import TailwindFormatter from '../../formatters/tailwind.formatter';
 import {
   paragraphSpacingTransformer,
@@ -21,7 +21,7 @@ StyleDictionary.registerAction(makeStylesAction);
 StyleDictionary.registerFormat(desktopTargetFormatter);
 
 export const CoreSdConfig = StyleDictionary.extend({
-  source: [RAW_FOUNDATION_SOURCE_FOLDER],
+  source: [RAW_CORE_SOURCE_FOLDER],
   platforms: {
     core_css: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
@@ -40,7 +40,7 @@ export const CoreSdConfig = StyleDictionary.extend({
 });
 
 export const SemanticLightSdConfig = StyleDictionary.extend({
-  source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/Color/Light.json`],
+  source: [RAW_CORE_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/semantic/color/light.json`],
   platforms: {
     semantic_light: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
@@ -61,7 +61,7 @@ export const SemanticLightSdConfig = StyleDictionary.extend({
 });
 
 export const SemanticDarkSdConfig = StyleDictionary.extend({
-  source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/Color/Dark.json`],
+  source: [RAW_CORE_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/semantic/color/dark.json`],
   platforms: {
     semantic_dark: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
@@ -82,7 +82,7 @@ export const SemanticDarkSdConfig = StyleDictionary.extend({
 });
 
 export const SemanticMobileSdConfig = StyleDictionary.extend({
-  source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/ViewPort/Mobile.json`],
+  source: [RAW_CORE_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/semantic/viewPort/mobile.json`],
   platforms: {
     semantic_mobile: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
@@ -103,7 +103,7 @@ export const SemanticMobileSdConfig = StyleDictionary.extend({
 });
 
 export const SemanticDesktopSdConfig = StyleDictionary.extend({
-  source: [RAW_FOUNDATION_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/Semantic/ViewPort/Desktop.json`],
+  source: [RAW_CORE_SOURCE_FOLDER, `${RAW_TOKENS_BASE_FOLDER}/semantic/viewPort/desktop.json`],
   platforms: {
     semantic_desktop: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
@@ -123,7 +123,7 @@ export const SemanticDesktopSdConfig = StyleDictionary.extend({
 });
 
 export const TailWindSdConfig = StyleDictionary.extend({
-  source: [RAW_FOUNDATION_SOURCE_FOLDER],
+  source: [RAW_CORE_SOURCE_FOLDER],
   include: [...BASE_VARIANT_SOURCE_INCLUDES],
   platforms: {
     tailwind: {

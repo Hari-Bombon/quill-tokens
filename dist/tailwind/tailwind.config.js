@@ -124,38 +124,38 @@ module.exports = {
       core: {
         gradient: {
           slate: {
-            "100":
-              "linear-gradient(1.93deg, rgba(rgba(255, 255, 255,1), 0) 1.56%, rgba(255, 255, 255,1) 49.91%)",
-            "200":
-              "linear-gradient(88.07deg, rgba(rgba(255, 255, 255,1), 0) 1.63%, rgba(255, 255, 255,1) 50.02%)",
-            "300":
-              "linear-gradient(181.93deg, rgba(rgba(255, 255, 255,1), 0) 1.63%, rgba(255, 255, 255,1) 50.01%)",
-            "400":
-              "linear-gradient(271.93deg, rgba(rgba(255, 255, 255,1), 0) 1.63%, rgba(255, 255, 255,1) 49.98%)",
-            "500":
-              "linear-gradient(1.93deg, rgba(rgba(246, 247, 248,1), 0) 1.56%, rgba(246, 247, 248,1) 49.91%)",
-            "600":
-              "linear-gradient(88.07deg, rgba(rgba(246, 247, 248,1), 0) 1.63%, rgba(246, 247, 248,1) 50.02%)",
-            "700":
-              "linear-gradient(181.93deg, rgba(rgba(246, 247, 248,1), 0) 1.63%, rgba(246, 247, 248,1) 50.01%)",
-            "800":
-              "linear-gradient(271.93deg, rgba(rgba(246, 247, 248,1), 0) 1.63%, rgba(246, 247, 248,1) 49.98%)",
-            "900":
-              "linear-gradient(1.93deg, rgba(rgba(17, 20, 27, 1), 0) 1.56%, rgba(17, 20, 27, 1) 49.91%)",
-            "1000":
-              "linear-gradient(88.07deg, rgba(rgba(17, 20, 27, 1), 0) 1.63%, rgba(17, 20, 27, 1) 50.02%)",
-            "1100":
-              "linear-gradient(181.93deg, rgba(rgba(17, 20, 27, 1), 0) 1.63%, rgba(17, 20, 27, 1) 50.01%)",
-            "1200":
-              "linear-gradient(271.93deg, rgba(rgba(17, 20, 27, 1), 0) 1.63%, rgba(17, 20, 27, 1) 49.98%)",
-            "1300":
-              "linear-gradient(1.93deg, rgba(rgba(24, 28, 37, 1), 0) 1.56%, rgba(24, 28, 37, 1) 49.91%)",
-            "1400":
-              "linear-gradient(88.07deg, rgba(rgba(24, 28, 37, 1), 0) 1.63%, rgba(24, 28, 37, 1) 50.02%)",
-            "1500":
-              "linear-gradient(181.93deg, rgba(rgba(24, 28, 37, 1), 0) 1.63%, rgba(24, 28, 37, 1) 50.01%)",
-            "1600":
-              "linear-gradient(271.93deg, rgba(rgba(24, 28, 37, 1), 0) 1.63%, rgba(24, 28, 37, 1) 49.98%)",
+            "110":
+              "linear-gradient(1.93deg, rgba( rgba(255, 255, 255,1),0) 1.56%, rgba(255, 255, 255,1) 49.91%)",
+            "120":
+              "linear-gradient(88.07deg, rgba( rgba(255, 255, 255,1),0) 1.63%, rgba(255, 255, 255,1) 50.02%)",
+            "130":
+              "linear-gradient(181.93deg, rgba( rgba(255, 255, 255,1),0) 1.63%, rgba(255, 255, 255,1) 50.01%)",
+            "140":
+              "linear-gradient(271.93deg, rgba( rgba(255, 255, 255,1),0) 1.63%, rgba(255, 255, 255,1) 49.98%)",
+            "210":
+              "linear-gradient(1.93deg, rgba( rgba(246, 247, 248,1),0) 1.56%, rgba(246, 247, 248,1) 49.91%)",
+            "220":
+              "linear-gradient(88.07deg, rgba( rgba(246, 247, 248,1),0) 1.63%, rgba(246, 247, 248,1) 50.02%)",
+            "230":
+              "linear-gradient(181.93deg, rgba( rgba(246, 247, 248,1),0) 1.63%, rgba(246, 247, 248,1) 50.01%)",
+            "240":
+              "linear-gradient(271.93deg, rgba( rgba(246, 247, 248,1),0) 1.63%, rgba(246, 247, 248,1) 49.98%)",
+            "310":
+              "linear-gradient(1.93deg, rgba( rgba(17, 20, 27, 1) ,0) 1.56%, rgba(17, 20, 27, 1) 49.91%)",
+            "320":
+              "linear-gradient(88.07deg, rgba( rgba(17, 20, 27, 1) ,0) 1.63%, rgba(17, 20, 27, 1) 50.02%)",
+            "330":
+              "linear-gradient(181.93deg, rgba( rgba(17, 20, 27, 1) ,0) 1.63%, rgba(17, 20, 27, 1) 50.01%)",
+            "340":
+              "linear-gradient(271.93deg, rgba( rgba(17, 20, 27, 1) ,0) 1.63%, rgba(17, 20, 27, 1) 49.98%)",
+            "410":
+              "linear-gradient(1.93deg, rgba( rgba(24, 28, 37, 1) ,0) 1.56%, rgba(24, 28, 37, 1) 49.91%)",
+            "420":
+              "linear-gradient(88.07deg, rgba( rgba(24, 28, 37, 1) ,0) 1.63%, rgba(24, 28, 37, 1) 50.02%)",
+            "430":
+              "linear-gradient(181.93deg, rgba( rgba(24, 28, 37, 1) ,0) 1.63%, rgba(24, 28, 37, 1) 50.01%)",
+            "440":
+              "linear-gradient(271.93deg, rgba( rgba(24, 28, 37, 1) ,0) 1.63%, rgba(24, 28, 37, 1) 49.98%)",
           },
         },
         opacity: {
@@ -339,6 +339,22 @@ module.exports = {
             "700": "rgba(rgba(222, 0, 64,1),0.8)",
             "800": "rgba(rgba(222, 0, 64,1),0.88)",
           },
+          slate: {
+            "100": "rgba(rgba(65, 70, 82,1),0.08)",
+            "200": "rgba(rgba(65, 70, 82,1),0.16)",
+            "300": "rgba(rgba(65, 70, 82,1),0.24)",
+            "400": "rgba(rgba(65, 70, 82,1),0.32)",
+            "500": "rgba(rgba(65, 70, 82,1),0.4)",
+            "600": "rgba(rgba(65, 70, 82,1),0.48)",
+            "700": "rgba(rgba(65, 70, 82,1),0.56)",
+            "800": "rgba(rgba(65, 70, 82,1),0.64)",
+          },
+          overflow: {
+            "100": "rgba( rgba(255, 255, 255,1),0)",
+            "200": "rgba( rgba(246, 247, 248,1),0)",
+            "300": "rgba( rgba(24, 28, 37, 1) ,0)",
+            "400": "rgba( rgba(17, 20, 27, 1) ,0)",
+          },
         },
         solid: {
           coral: {
@@ -465,7 +481,7 @@ module.exports = {
             "1300": "rgba(0, 77, 11,1)",
           },
           emerald: {
-            "100": "rgba(230, 255, 249,1)",
+            "100": "rgba(230, 255, 249, 1)",
             "200": "rgba(191, 255, 237,1)",
             "300": "rgba(153, 255, 223,1)",
             "400": "rgba(115, 249, 207,1)",
@@ -618,6 +634,14 @@ module.exports = {
       },
     },
     borderRadius: {
+      "semantic-none": "var(--semantic-border-radius-none)",
+      "semantic-xs": "var(--semantic-border-radius-xs)",
+      "semantic-sm": "var(--semantic-border-radius-sm)",
+      "semantic-md": "var(--semantic-border-radius-md)",
+      "semantic-lg": "var(--semantic-border-radius-lg)",
+      "semantic-xl": "var(--semantic-border-radius-xl)",
+      "semantic-2xl": "var(--semantic-border-radius-2xl)",
+      "semantic-pill": "var(--semantic-border-radius-pill)",
       "core-50": "0px",
       "core-100": "2px",
       "core-200": "4px",
@@ -671,6 +695,11 @@ module.exports = {
       "core-5000": "100px",
     },
     borderWidth: {
+      "semantic-none": "var(--semantic-border-width-none)",
+      "semantic-xs": "var(--semantic-border-width-xs)",
+      "semantic-sm": "var(--semantic-border-width-sm)",
+      "semantic-md": "var(--semantic-border-width-md)",
+      "semantic-lg": "var(--semantic-border-width-lg)",
       "core-50": 0,
       "core-75": "1px",
       "core-100": "2px",
@@ -768,19 +797,19 @@ module.exports = {
       "core-regular": 400,
       "core-bold": 700,
       "core-italic": "Italic",
-      "core-boldItalic": "italic bold",
+      "core-boldItalic": "700 italic",
     },
     lineHeight: {
-      "core-100": "18px",
-      "core-200": "22px",
-      "core-300": "24px",
-      "core-400": "28px",
-      "core-500": "30px",
-      "core-600": "32px",
-      "core-700": "36px",
-      "core-800": "48px",
-      "core-900": "64px",
-      "core-1000": "96px",
+      "core-100": 18,
+      "core-200": 22,
+      "core-300": 24,
+      "core-400": 28,
+      "core-500": 30,
+      "core-600": 32,
+      "core-700": 36,
+      "core-800": 48,
+      "core-900": 64,
+      "core-1000": 96,
       "core-auto": "auto",
     },
     extend: {},

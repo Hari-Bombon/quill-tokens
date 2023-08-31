@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 30 Aug 2023 11:21:04 GMT
+ * Generated on Wed, 30 Aug 2023 17:50:02 GMT
  */
 
 :root {
@@ -19,4 +19,17 @@
   --semantic-spacing-gap-xl: 24px;
   --semantic-spacing-gap-2xl: 48px;
   --semantic-spacing-gap-3xl: 96px;
+  --semantic-border-radius-none: 0px;
+  --semantic-border-radius-xs: 2px;
+  --semantic-border-radius-sm: 4px;
+  --semantic-border-radius-md: 6px;
+  --semantic-border-radius-lg: 8px;
+  --semantic-border-radius-xl: 10px;
+  --semantic-border-radius-2xl: 16px;
+  --semantic-border-radius-pill: 28px;
+  --semantic-border-width-none: 0;
+  --semantic-border-width-xs: 1px;
+  --semantic-border-width-sm: 2px;
+  --semantic-border-width-md: 4px;
+  --semantic-border-width-lg: 8px;
 }
