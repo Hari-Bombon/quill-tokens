@@ -38,7 +38,7 @@ jobs:
         destination_repo: 'binary-com/quill-design'
         # destination_folder: 'raw-tokens'
         destination_base_branch: 'main'
-        destination_head_branch: ${{format( 'update-raw-token-{0}', steps.time.outputs.time )}}
+        destination_head_branch: ${{format( 'update-quill-tailwind-tokens-{0}', steps.time.outputs.time )}}
         user_email: 'mohsen@regentmarkets.com'
         user_name: 'mohsen-deriv'
         pull_request_reviewers: 'mohsen-deriv,prince-deriv'
