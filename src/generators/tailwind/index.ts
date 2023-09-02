@@ -1,6 +1,11 @@
 import StyleDictionary from 'style-dictionary';
 import { registerTransforms, transforms as TokenStudioTransforms } from '@tokens-studio/sd-transforms';
-import { BASE_VARIANT_SOURCE_INCLUDES, RAW_CORE_SOURCE_FOLDER, RAW_TOKENS_BASE_FOLDER } from '../../utils';
+import {
+  BASE_VARIANT_SOURCE_INCLUDES,
+  QUILL_TAILWIND_BUILD_PATH,
+  RAW_CORE_SOURCE_FOLDER,
+  RAW_TOKENS_BASE_FOLDER,
+} from '../../utils';
 import TailwindFormatter from '../../formatters/tailwind.formatter';
 import {
   paragraphSpacingTransformer,
@@ -25,7 +30,7 @@ export const CoreSdConfig = StyleDictionary.extend({
   platforms: {
     core_css: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
-      buildPath: 'dist/tailwind/',
+      buildPath: QUILL_TAILWIND_BUILD_PATH,
       files: [
         {
           destination: '_core.css',
@@ -44,7 +49,7 @@ export const SemanticLightSdConfig = StyleDictionary.extend({
   platforms: {
     semantic_light: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
-      buildPath: 'dist/tailwind/',
+      buildPath: QUILL_TAILWIND_BUILD_PATH,
       files: [
         {
           destination: '_light.css',
@@ -65,7 +70,7 @@ export const SemanticDarkSdConfig = StyleDictionary.extend({
   platforms: {
     semantic_dark: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
-      buildPath: 'dist/tailwind/',
+      buildPath: QUILL_TAILWIND_BUILD_PATH,
       files: [
         {
           destination: '_dark.css',
@@ -86,7 +91,7 @@ export const SemanticMobileSdConfig = StyleDictionary.extend({
   platforms: {
     semantic_mobile: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
-      buildPath: 'dist/tailwind/',
+      buildPath: QUILL_TAILWIND_BUILD_PATH,
       files: [
         {
           destination: '_mobile.css',
@@ -107,7 +112,7 @@ export const SemanticDesktopSdConfig = StyleDictionary.extend({
   platforms: {
     semantic_desktop: {
       transforms: [...TokenStudioTransforms, 'deriv/paragraph-spacing', 'name/cti/kebab'],
-      buildPath: 'dist/tailwind/',
+      buildPath: QUILL_TAILWIND_BUILD_PATH,
       files: [
         {
           destination: '_desktop.css',
@@ -129,7 +134,7 @@ export const TailWindSdConfig = StyleDictionary.extend({
     tailwind: {
       actions: ['deriv/tw/make-style'],
       transforms: [...TokenStudioTransforms, ...tailwindTransforms, 'name/cti/kebab'],
-      buildPath: 'dist/tailwind/',
+      buildPath: QUILL_TAILWIND_BUILD_PATH,
       files: [
         {
           destination: 'tailwind.config.js',

@@ -10,6 +10,7 @@ export const BASE_VARIANT_SOURCE_INCLUDES = [
   `${RAW_TOKENS_BASE_FOLDER}/semantic/viewPort/mobile.json`,
   `${RAW_TOKENS_BASE_FOLDER}/semantic/color/light.json`,
 ];
+export const QUILL_TAILWIND_BUILD_PATH = 'dist/quill-tailwind/';
 
 export const makeNestedObject = <T extends readonly string[]>(
   obj: NestedObj<{ [key: string]: any }>,

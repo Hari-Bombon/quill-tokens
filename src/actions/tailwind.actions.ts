@@ -1,5 +1,6 @@
 import { Action, Named } from 'style-dictionary';
 import * as fs from 'fs';
+import { QUILL_TAILWIND_BUILD_PATH } from '../utils';
 
 export const makeStylesAction: Named<Action> = {
   name: 'deriv/tw/make-style',
@@ -11,6 +12,6 @@ export const makeStylesAction: Named<Action> = {
     files.forEach((fileItem) => {
       result += `@import "./${fileItem}";\n`;
     });
-    fs.writeFileSync('dist/tailwind/styles.css', result);
+    fs.writeFileSync(`${QUILL_TAILWIND_BUILD_PATH}styles.css`, result);
   },
 };
