@@ -15,8 +15,7 @@ const getTokens = (tokenType: QuillTokenType): TransformedToken[] => {
   return tokenMap.get(tokenType) || [];
 };
 
-const fooFormat = (tokens: TransformedToken[]) => {
-  // this is a temp measure, please use transforms for these
+const formatTokenByTokenPath = (tokens: TransformedToken[]) => {
   const allTokenObj = tokens.reduce<Record<string, string>>((acc, cur) => {
     acc[cur?.attributes?.tokenPath.join('-')] = cur.value;
     return acc;
@@ -56,23 +55,23 @@ const formatter: Formatter = ({ dictionary, options }) => {
 
   const colorTokens = formatObjectTokens(getTokens('color'));
 
-  const fontFamilyTokens = formatObjectTokens(getTokens('fontFamilies'));
+  const fontFamilyTokens = formatTokenByTokenPath(getTokens('fontFamilies'));
 
-  const spacingTokens = fooFormat([...getTokens('spacing'), ...getTokens('paragraphSpacing')]);
+  const spacingTokens = formatTokenByTokenPath([...getTokens('spacing'), ...getTokens('paragraphSpacing')]);
 
-  const borderRadiusTokens = fooFormat(getTokens('borderRadius'));
+  const borderRadiusTokens = formatTokenByTokenPath(getTokens('borderRadius'));
 
-  const borderWidthTokens = fooFormat(getTokens('borderWidth'));
+  const borderWidthTokens = formatTokenByTokenPath(getTokens('borderWidth'));
 
-  const boxShadowTokens = fooFormat(getTokens('boxShadow'));
+  const boxShadowTokens = formatTokenByTokenPath(getTokens('boxShadow'));
 
-  const opacityTokens = fooFormat(getTokens('opacity'));
+  const opacityTokens = formatTokenByTokenPath(getTokens('opacity'));
 
-  const fontSizeTokens = fooFormat(getTokens('fontSizes'));
+  const fontSizeTokens = formatTokenByTokenPath(getTokens('fontSizes'));
 
-  const fontWeightTokens = fooFormat(getTokens('fontWeights'));
+  const fontWeightTokens = formatTokenByTokenPath(getTokens('fontWeights'));
 
-  const lineHeightTokens = fooFormat(getTokens('lineHeights'));
+  const lineHeightTokens = formatTokenByTokenPath(getTokens('lineHeights'));
 
   const result = tailwindTemplate({
     colors: colorTokens,

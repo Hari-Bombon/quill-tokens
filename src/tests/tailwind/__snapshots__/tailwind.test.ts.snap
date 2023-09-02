@@ -15224,7 +15224,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "100",
         ],
         "type": "lineHeights",
-        "value": 18,
+        "value": "18px",
       },
       "1000": {
         "attributes": {
@@ -15263,7 +15263,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "1000",
         ],
         "type": "lineHeights",
-        "value": 96,
+        "value": "96px",
       },
       "200": {
         "attributes": {
@@ -15302,7 +15302,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "200",
         ],
         "type": "lineHeights",
-        "value": 22,
+        "value": "22px",
       },
       "300": {
         "attributes": {
@@ -15341,7 +15341,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "300",
         ],
         "type": "lineHeights",
-        "value": 24,
+        "value": "24px",
       },
       "400": {
         "attributes": {
@@ -15380,7 +15380,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "400",
         ],
         "type": "lineHeights",
-        "value": 28,
+        "value": "28px",
       },
       "500": {
         "attributes": {
@@ -15419,7 +15419,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "500",
         ],
         "type": "lineHeights",
-        "value": 30,
+        "value": "30px",
       },
       "600": {
         "attributes": {
@@ -15458,7 +15458,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "600",
         ],
         "type": "lineHeights",
-        "value": 32,
+        "value": "32px",
       },
       "700": {
         "attributes": {
@@ -15497,7 +15497,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "700",
         ],
         "type": "lineHeights",
-        "value": 36,
+        "value": "36px",
       },
       "800": {
         "attributes": {
@@ -15536,7 +15536,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "800",
         ],
         "type": "lineHeights",
-        "value": 48,
+        "value": "48px",
       },
       "900": {
         "attributes": {
@@ -15575,7 +15575,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "900",
         ],
         "type": "lineHeights",
-        "value": 64,
+        "value": "64px",
       },
       "auto": {
         "attributes": {},
@@ -15592,7 +15592,7 @@ exports[`Tailwind Exports Should generate Core CSS variables properly 1`] = `
           "auto",
         ],
         "type": "lineHeights",
-        "value": "auto",
+        "value": "autopx",
       },
     },
     "opacity": {
@@ -33524,7 +33524,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "100",
         ],
         "type": "lineHeights",
-        "value": 18,
+        "value": "18px",
       },
       "1000": {
         "attributes": {
@@ -33563,7 +33563,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "1000",
         ],
         "type": "lineHeights",
-        "value": 96,
+        "value": "96px",
       },
       "200": {
         "attributes": {
@@ -33602,7 +33602,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "200",
         ],
         "type": "lineHeights",
-        "value": 22,
+        "value": "22px",
       },
       "300": {
         "attributes": {
@@ -33641,7 +33641,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "300",
         ],
         "type": "lineHeights",
-        "value": 24,
+        "value": "24px",
       },
       "400": {
         "attributes": {
@@ -33680,7 +33680,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "400",
         ],
         "type": "lineHeights",
-        "value": 28,
+        "value": "28px",
       },
       "500": {
         "attributes": {
@@ -33719,7 +33719,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "500",
         ],
         "type": "lineHeights",
-        "value": 30,
+        "value": "30px",
       },
       "600": {
         "attributes": {
@@ -33758,7 +33758,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "600",
         ],
         "type": "lineHeights",
-        "value": 32,
+        "value": "32px",
       },
       "700": {
         "attributes": {
@@ -33797,7 +33797,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "700",
         ],
         "type": "lineHeights",
-        "value": 36,
+        "value": "36px",
       },
       "800": {
         "attributes": {
@@ -33836,7 +33836,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "800",
         ],
         "type": "lineHeights",
-        "value": 48,
+        "value": "48px",
       },
       "900": {
         "attributes": {
@@ -33875,7 +33875,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "900",
         ],
         "type": "lineHeights",
-        "value": 64,
+        "value": "64px",
       },
       "auto": {
         "attributes": {},
@@ -33892,7 +33892,7 @@ exports[`Tailwind Exports Should generate Dark Theme Semantic CSS variables prop
           "auto",
         ],
         "type": "lineHeights",
-        "value": "auto",
+        "value": "autopx",
       },
     },
     "opacity": {
@@ -52094,7 +52094,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "100",
         ],
         "type": "lineHeights",
-        "value": 18,
+        "value": "18px",
       },
       "1000": {
         "attributes": {
@@ -52133,7 +52133,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "1000",
         ],
         "type": "lineHeights",
-        "value": 96,
+        "value": "96px",
       },
       "200": {
         "attributes": {
@@ -52172,7 +52172,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "200",
         ],
         "type": "lineHeights",
-        "value": 22,
+        "value": "22px",
       },
       "300": {
         "attributes": {
@@ -52211,7 +52211,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "300",
         ],
         "type": "lineHeights",
-        "value": 24,
+        "value": "24px",
       },
       "400": {
         "attributes": {
@@ -52250,7 +52250,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "400",
         ],
         "type": "lineHeights",
-        "value": 28,
+        "value": "28px",
       },
       "500": {
         "attributes": {
@@ -52289,7 +52289,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "500",
         ],
         "type": "lineHeights",
-        "value": 30,
+        "value": "30px",
       },
       "600": {
         "attributes": {
@@ -52328,7 +52328,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "600",
         ],
         "type": "lineHeights",
-        "value": 32,
+        "value": "32px",
       },
       "700": {
         "attributes": {
@@ -52367,7 +52367,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "700",
         ],
         "type": "lineHeights",
-        "value": 36,
+        "value": "36px",
       },
       "800": {
         "attributes": {
@@ -52406,7 +52406,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "800",
         ],
         "type": "lineHeights",
-        "value": 48,
+        "value": "48px",
       },
       "900": {
         "attributes": {
@@ -52445,7 +52445,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "900",
         ],
         "type": "lineHeights",
-        "value": 64,
+        "value": "64px",
       },
       "auto": {
         "attributes": {},
@@ -52462,7 +52462,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
           "auto",
         ],
         "type": "lineHeights",
-        "value": "auto",
+        "value": "autopx",
       },
     },
     "opacity": {
@@ -55698,7 +55698,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "bold",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Sans'",
+              "value": "700 20px/30px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -55725,7 +55725,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Sans'",
+              "value": "undefined italic 20px/30px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -55753,7 +55753,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Sans'",
+              "value": "undefined italic 20px/30px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -55781,7 +55781,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Sans'",
+              "value": "700 20px/30px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -55810,7 +55810,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "default",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Sans'",
+              "value": "400 20px/30px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -55837,7 +55837,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Sans'",
+              "value": "Italic 20px/30px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -55865,7 +55865,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Sans'",
+              "value": "Italic 20px/30px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -55893,7 +55893,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Sans'",
+              "value": "400 20px/30px 'IBM Plex Sans'",
             },
           },
         },
@@ -55924,7 +55924,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "bold",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Sans'",
+              "value": "700 16px/24px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -55951,7 +55951,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Sans'",
+              "value": "undefined italic 16px/24px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -55979,7 +55979,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Sans'",
+              "value": "undefined italic 16px/24px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -56007,7 +56007,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Sans'",
+              "value": "700 16px/24px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -56036,7 +56036,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "default",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Sans'",
+              "value": "400 16px/24px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -56063,7 +56063,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Sans'",
+              "value": "Italic 16px/24px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -56091,7 +56091,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Sans'",
+              "value": "Italic 16px/24px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -56119,7 +56119,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Sans'",
+              "value": "400 16px/24px 'IBM Plex Sans'",
             },
           },
         },
@@ -56150,7 +56150,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "bold",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Sans'",
+              "value": "700 14px/22px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -56177,7 +56177,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Sans'",
+              "value": "undefined italic 14px/22px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -56205,7 +56205,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Sans'",
+              "value": "undefined italic 14px/22px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -56233,7 +56233,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Sans'",
+              "value": "700 14px/22px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -56262,7 +56262,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "default",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Sans'",
+              "value": "400 14px/22px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -56289,7 +56289,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Sans'",
+              "value": "Italic 14px/22px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -56317,7 +56317,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Sans'",
+              "value": "Italic 14px/22px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -56345,7 +56345,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Sans'",
+              "value": "400 14px/22px 'IBM Plex Sans'",
             },
           },
         },
@@ -56376,7 +56376,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "bold",
               ],
               "type": "typography",
-              "value": "700 24px/36 'IBM Plex Sans'",
+              "value": "700 24px/36px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -56403,7 +56403,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 24px/36 'IBM Plex Sans'",
+              "value": "undefined italic 24px/36px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -56431,7 +56431,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 24px/36 'IBM Plex Sans'",
+              "value": "undefined italic 24px/36px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -56459,7 +56459,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "700 24px/36 'IBM Plex Sans'",
+              "value": "700 24px/36px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -56488,7 +56488,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "default",
               ],
               "type": "typography",
-              "value": "400 24px/36 'IBM Plex Sans'",
+              "value": "400 24px/36px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -56515,7 +56515,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 24px/36 'IBM Plex Sans'",
+              "value": "Italic 24px/36px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -56543,7 +56543,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 24px/36 'IBM Plex Sans'",
+              "value": "Italic 24px/36px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -56571,7 +56571,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "400 24px/36 'IBM Plex Sans'",
+              "value": "400 24px/36px 'IBM Plex Sans'",
             },
           },
         },
@@ -56602,7 +56602,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
               "bold",
             ],
             "type": "typography",
-            "value": "700 12px/18 'IBM Plex Sans'",
+            "value": "700 12px/18px 'IBM Plex Sans'",
           },
           "italic": {
             "attributes": {},
@@ -56628,7 +56628,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
               "italic",
             ],
             "type": "typography",
-            "value": "undefined italic 12px/18 'IBM Plex Sans'",
+            "value": "undefined italic 12px/18px 'IBM Plex Sans'",
           },
           "italic-underline": {
             "attributes": {},
@@ -56655,7 +56655,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
               "italic-underline",
             ],
             "type": "typography",
-            "value": "undefined italic 12px/18 'IBM Plex Sans'",
+            "value": "undefined italic 12px/18px 'IBM Plex Sans'",
           },
           "underline": {
             "attributes": {},
@@ -56682,7 +56682,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
               "underline",
             ],
             "type": "typography",
-            "value": "700 12px/18 'IBM Plex Sans'",
+            "value": "700 12px/18px 'IBM Plex Sans'",
           },
         },
         "regular": {
@@ -56710,7 +56710,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
               "default",
             ],
             "type": "typography",
-            "value": "400 12px/18 'IBM Plex Sans'",
+            "value": "400 12px/18px 'IBM Plex Sans'",
           },
           "italic": {
             "attributes": {},
@@ -56736,7 +56736,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
               "italic",
             ],
             "type": "typography",
-            "value": "Italic 12px/18 'IBM Plex Sans'",
+            "value": "Italic 12px/18px 'IBM Plex Sans'",
           },
           "italic-underline": {
             "attributes": {},
@@ -56763,7 +56763,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
               "italic-underline",
             ],
             "type": "typography",
-            "value": "Italic 12px/18 'IBM Plex Sans'",
+            "value": "Italic 12px/18px 'IBM Plex Sans'",
           },
           "underline": {
             "attributes": {},
@@ -56790,7 +56790,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
               "underline",
             ],
             "type": "typography",
-            "value": "400 12px/18 'IBM Plex Sans'",
+            "value": "400 12px/18px 'IBM Plex Sans'",
           },
         },
       },
@@ -56822,7 +56822,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "bold",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Mono'",
+              "value": "700 20px/30px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -56849,7 +56849,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Mono'",
+              "value": "undefined italic 20px/30px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -56877,7 +56877,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Mono'",
+              "value": "undefined italic 20px/30px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -56905,7 +56905,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Mono'",
+              "value": "700 20px/30px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -56934,7 +56934,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "default",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Mono'",
+              "value": "400 20px/30px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -56961,7 +56961,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Mono'",
+              "value": "Italic 20px/30px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -56989,7 +56989,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Mono'",
+              "value": "Italic 20px/30px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -57017,7 +57017,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Mono'",
+              "value": "400 20px/30px 'IBM Plex Mono'",
             },
           },
         },
@@ -57048,7 +57048,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "bold",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Mono'",
+              "value": "700 16px/24px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -57075,7 +57075,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Mono'",
+              "value": "undefined italic 16px/24px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -57103,7 +57103,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Mono'",
+              "value": "undefined italic 16px/24px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -57131,7 +57131,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Mono'",
+              "value": "700 16px/24px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -57160,7 +57160,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "default",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Mono'",
+              "value": "400 16px/24px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -57187,7 +57187,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Mono'",
+              "value": "Italic 16px/24px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -57215,7 +57215,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Mono'",
+              "value": "Italic 16px/24px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -57243,7 +57243,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Mono'",
+              "value": "400 16px/24px 'IBM Plex Mono'",
             },
           },
         },
@@ -57274,7 +57274,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "bold",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Mono'",
+              "value": "700 14px/22px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -57301,7 +57301,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Mono'",
+              "value": "undefined italic 14px/22px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -57329,7 +57329,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Mono'",
+              "value": "undefined italic 14px/22px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -57357,7 +57357,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Mono'",
+              "value": "700 14px/22px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -57386,7 +57386,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "default",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Mono'",
+              "value": "400 14px/22px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -57413,7 +57413,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Mono'",
+              "value": "Italic 14px/22px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -57441,7 +57441,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Mono'",
+              "value": "Italic 14px/22px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -57469,7 +57469,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Mono'",
+              "value": "400 14px/22px 'IBM Plex Mono'",
             },
           },
         },
@@ -57500,7 +57500,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "bold",
               ],
               "type": "typography",
-              "value": "700 24px/36 'IBM Plex Mono'",
+              "value": "700 24px/36px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -57527,7 +57527,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 24px/36 'IBM Plex Mono'",
+              "value": "undefined italic 24px/36px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -57555,7 +57555,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 24px/36 'IBM Plex Mono'",
+              "value": "undefined italic 24px/36px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -57583,7 +57583,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "700 24px/36 'IBM Plex Mono'",
+              "value": "700 24px/36px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -57612,7 +57612,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "default",
               ],
               "type": "typography",
-              "value": "400 24px/36 'IBM Plex Mono'",
+              "value": "400 24px/36px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -57639,7 +57639,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 24px/36 'IBM Plex Mono'",
+              "value": "Italic 24px/36px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -57667,7 +57667,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 24px/36 'IBM Plex Mono'",
+              "value": "Italic 24px/36px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -57695,7 +57695,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "underline",
               ],
               "type": "typography",
-              "value": "400 24px/36 'IBM Plex Mono'",
+              "value": "400 24px/36px 'IBM Plex Mono'",
             },
           },
         },
@@ -57724,7 +57724,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
             "h1",
           ],
           "type": "typography",
-          "value": "700 64px/auto Ubuntu",
+          "value": "700 64px/autopx Ubuntu",
         },
         "h2": {
           "attributes": {},
@@ -57749,7 +57749,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
             "h2",
           ],
           "type": "typography",
-          "value": "700 48px/auto Ubuntu",
+          "value": "700 48px/autopx Ubuntu",
         },
         "h3": {
           "attributes": {},
@@ -57774,7 +57774,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
             "h3",
           ],
           "type": "typography",
-          "value": "700 32px/auto Ubuntu",
+          "value": "700 32px/autopx Ubuntu",
         },
         "h4": {
           "attributes": {},
@@ -57799,7 +57799,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
             "h4",
           ],
           "type": "typography",
-          "value": "700 24px/auto Ubuntu",
+          "value": "700 24px/autopx Ubuntu",
         },
         "h5": {
           "attributes": {},
@@ -57824,7 +57824,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
             "h5",
           ],
           "type": "typography",
-          "value": "700 20px/auto Ubuntu",
+          "value": "700 20px/autopx Ubuntu",
         },
         "h6": {
           "attributes": {},
@@ -57849,7 +57849,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
             "h6",
           ],
           "type": "typography",
-          "value": "700 16px/auto Ubuntu",
+          "value": "700 16px/autopx Ubuntu",
         },
         "h7": {
           "attributes": {},
@@ -57874,7 +57874,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
             "h7",
           ],
           "type": "typography",
-          "value": "700 14px/auto Ubuntu",
+          "value": "700 14px/autopx Ubuntu",
         },
         "hero": {
           "attributes": {},
@@ -57899,7 +57899,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
             "hero",
           ],
           "type": "typography",
-          "value": "700 80px/auto Ubuntu",
+          "value": "700 80px/autopx Ubuntu",
         },
       },
       "icon": {
@@ -57929,7 +57929,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "caption",
               ],
               "type": "typography",
-              "value": "400 12px/18 'Font Awesome 6 Pro'",
+              "value": "400 12px/18px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -57955,7 +57955,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "lg",
               ],
               "type": "typography",
-              "value": "400 20px/30 'Font Awesome 6 Pro'",
+              "value": "400 20px/30px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -57981,7 +57981,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "md",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Pro'",
+              "value": "400 16px/24px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -58007,7 +58007,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "sm",
               ],
               "type": "typography",
-              "value": "400 14px/22 'Font Awesome 6 Pro'",
+              "value": "400 14px/22px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -58033,7 +58033,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "xl",
               ],
               "type": "typography",
-              "value": "400 24px/36 'Font Awesome 6 Pro'",
+              "value": "400 24px/36px 'Font Awesome 6 Pro'",
             },
           },
           "brand": {
@@ -58061,7 +58061,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "caption",
               ],
               "type": "typography",
-              "value": "400 12px/18 'Font Awesome 6 Brands'",
+              "value": "400 12px/18px 'Font Awesome 6 Brands'",
             },
             "lg": {
               "attributes": {},
@@ -58087,7 +58087,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "lg",
               ],
               "type": "typography",
-              "value": "400 20px/30 'Font Awesome 6 Brands'",
+              "value": "400 20px/30px 'Font Awesome 6 Brands'",
             },
             "md": {
               "attributes": {},
@@ -58113,7 +58113,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "md",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Brands'",
+              "value": "400 16px/24px 'Font Awesome 6 Brands'",
             },
             "sm": {
               "attributes": {},
@@ -58139,7 +58139,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "sm",
               ],
               "type": "typography",
-              "value": "400 14px/22 'Font Awesome 6 Brands'",
+              "value": "400 14px/22px 'Font Awesome 6 Brands'",
             },
             "xl": {
               "attributes": {},
@@ -58165,7 +58165,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "xl",
               ],
               "type": "typography",
-              "value": "400 24px/36 'Font Awesome 6 Brands'",
+              "value": "400 24px/36px 'Font Awesome 6 Brands'",
             },
           },
           "regular": {
@@ -58193,7 +58193,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "caption",
               ],
               "type": "typography",
-              "value": "300 12px/18 'Font Awesome 6 Pro'",
+              "value": "300 12px/18px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -58219,7 +58219,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "lg",
               ],
               "type": "typography",
-              "value": "300 20px/30 'Font Awesome 6 Pro'",
+              "value": "300 20px/30px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -58245,7 +58245,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "md",
               ],
               "type": "typography",
-              "value": "300 16px/24 'Font Awesome 6 Pro'",
+              "value": "300 16px/24px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -58271,7 +58271,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "sm",
               ],
               "type": "typography",
-              "value": "300 14px/22 'Font Awesome 6 Pro'",
+              "value": "300 14px/22px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -58297,7 +58297,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "xl",
               ],
               "type": "typography",
-              "value": "300 24px/36 'Font Awesome 6 Pro'",
+              "value": "300 24px/36px 'Font Awesome 6 Pro'",
             },
           },
         },
@@ -58327,7 +58327,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "2xl",
               ],
               "type": "typography",
-              "value": "400 64px/96 'Font Awesome 6 Pro'",
+              "value": "400 64px/96px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -58353,7 +58353,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "lg",
               ],
               "type": "typography",
-              "value": "400 32px/48 'Font Awesome 6 Pro'",
+              "value": "400 32px/48px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -58379,7 +58379,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "md",
               ],
               "type": "typography",
-              "value": "400 20px/32 'Font Awesome 6 Pro'",
+              "value": "400 20px/32px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -58405,7 +58405,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "sm",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Pro'",
+              "value": "400 16px/24px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -58431,7 +58431,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "xl",
               ],
               "type": "typography",
-              "value": "400 40px/64 'Font Awesome 6 Pro'",
+              "value": "400 40px/64px 'Font Awesome 6 Pro'",
             },
           },
           "brand": {
@@ -58459,7 +58459,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "2xl",
               ],
               "type": "typography",
-              "value": "400 64px/96 'Font Awesome 6 Brands'",
+              "value": "400 64px/96px 'Font Awesome 6 Brands'",
             },
             "lg": {
               "attributes": {},
@@ -58485,7 +58485,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "lg",
               ],
               "type": "typography",
-              "value": "400 32px/48 'Font Awesome 6 Brands'",
+              "value": "400 32px/48px 'Font Awesome 6 Brands'",
             },
             "md": {
               "attributes": {},
@@ -58511,7 +58511,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "md",
               ],
               "type": "typography",
-              "value": "400 20px/32 'Font Awesome 6 Brands'",
+              "value": "400 20px/32px 'Font Awesome 6 Brands'",
             },
             "sm": {
               "attributes": {},
@@ -58537,7 +58537,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "sm",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Brands'",
+              "value": "400 16px/24px 'Font Awesome 6 Brands'",
             },
             "xl": {
               "attributes": {},
@@ -58563,7 +58563,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "xl",
               ],
               "type": "typography",
-              "value": "400 40px/64 'Font Awesome 6 Brands'",
+              "value": "400 40px/64px 'Font Awesome 6 Brands'",
             },
           },
           "regular": {
@@ -58591,7 +58591,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "2xl",
               ],
               "type": "typography",
-              "value": "300 64px/96 'Font Awesome 6 Pro'",
+              "value": "300 64px/96px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -58617,7 +58617,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "lg",
               ],
               "type": "typography",
-              "value": "300 32px/48 'Font Awesome 6 Pro'",
+              "value": "300 32px/48px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -58643,7 +58643,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "md",
               ],
               "type": "typography",
-              "value": "300 20px/32 'Font Awesome 6 Pro'",
+              "value": "300 20px/32px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -58669,7 +58669,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "sm",
               ],
               "type": "typography",
-              "value": "300 16px/24 'Font Awesome 6 Pro'",
+              "value": "300 16px/24px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -58695,7 +58695,7 @@ exports[`Tailwind Exports Should generate Desktop Semantic CSS variables properl
                 "xl",
               ],
               "type": "typography",
-              "value": "300 40px/64 'Font Awesome 6 Pro'",
+              "value": "300 40px/64px 'Font Awesome 6 Pro'",
             },
           },
         },
@@ -73929,7 +73929,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "100",
         ],
         "type": "lineHeights",
-        "value": 18,
+        "value": "18px",
       },
       "1000": {
         "attributes": {
@@ -73968,7 +73968,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "1000",
         ],
         "type": "lineHeights",
-        "value": 96,
+        "value": "96px",
       },
       "200": {
         "attributes": {
@@ -74007,7 +74007,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "200",
         ],
         "type": "lineHeights",
-        "value": 22,
+        "value": "22px",
       },
       "300": {
         "attributes": {
@@ -74046,7 +74046,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "300",
         ],
         "type": "lineHeights",
-        "value": 24,
+        "value": "24px",
       },
       "400": {
         "attributes": {
@@ -74085,7 +74085,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "400",
         ],
         "type": "lineHeights",
-        "value": 28,
+        "value": "28px",
       },
       "500": {
         "attributes": {
@@ -74124,7 +74124,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "500",
         ],
         "type": "lineHeights",
-        "value": 30,
+        "value": "30px",
       },
       "600": {
         "attributes": {
@@ -74163,7 +74163,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "600",
         ],
         "type": "lineHeights",
-        "value": 32,
+        "value": "32px",
       },
       "700": {
         "attributes": {
@@ -74202,7 +74202,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "700",
         ],
         "type": "lineHeights",
-        "value": 36,
+        "value": "36px",
       },
       "800": {
         "attributes": {
@@ -74241,7 +74241,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "800",
         ],
         "type": "lineHeights",
-        "value": 48,
+        "value": "48px",
       },
       "900": {
         "attributes": {
@@ -74280,7 +74280,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "900",
         ],
         "type": "lineHeights",
-        "value": 64,
+        "value": "64px",
       },
       "auto": {
         "attributes": {},
@@ -74297,7 +74297,7 @@ exports[`Tailwind Exports Should generate Light Theme Semantic CSS variables pro
           "auto",
         ],
         "type": "lineHeights",
-        "value": "auto",
+        "value": "autopx",
       },
     },
     "opacity": {
@@ -92499,7 +92499,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "100",
         ],
         "type": "lineHeights",
-        "value": 18,
+        "value": "18px",
       },
       "1000": {
         "attributes": {
@@ -92538,7 +92538,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "1000",
         ],
         "type": "lineHeights",
-        "value": 96,
+        "value": "96px",
       },
       "200": {
         "attributes": {
@@ -92577,7 +92577,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "200",
         ],
         "type": "lineHeights",
-        "value": 22,
+        "value": "22px",
       },
       "300": {
         "attributes": {
@@ -92616,7 +92616,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "300",
         ],
         "type": "lineHeights",
-        "value": 24,
+        "value": "24px",
       },
       "400": {
         "attributes": {
@@ -92655,7 +92655,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "400",
         ],
         "type": "lineHeights",
-        "value": 28,
+        "value": "28px",
       },
       "500": {
         "attributes": {
@@ -92694,7 +92694,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "500",
         ],
         "type": "lineHeights",
-        "value": 30,
+        "value": "30px",
       },
       "600": {
         "attributes": {
@@ -92733,7 +92733,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "600",
         ],
         "type": "lineHeights",
-        "value": 32,
+        "value": "32px",
       },
       "700": {
         "attributes": {
@@ -92772,7 +92772,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "700",
         ],
         "type": "lineHeights",
-        "value": 36,
+        "value": "36px",
       },
       "800": {
         "attributes": {
@@ -92811,7 +92811,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "800",
         ],
         "type": "lineHeights",
-        "value": 48,
+        "value": "48px",
       },
       "900": {
         "attributes": {
@@ -92850,7 +92850,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "900",
         ],
         "type": "lineHeights",
-        "value": 64,
+        "value": "64px",
       },
       "auto": {
         "attributes": {},
@@ -92867,7 +92867,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
           "auto",
         ],
         "type": "lineHeights",
-        "value": "auto",
+        "value": "autopx",
       },
     },
     "opacity": {
@@ -96103,7 +96103,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "bold",
               ],
               "type": "typography",
-              "value": "700 18px/28 'IBM Plex Sans'",
+              "value": "700 18px/28px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -96130,7 +96130,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 18px/28 'IBM Plex Sans'",
+              "value": "undefined italic 18px/28px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -96158,7 +96158,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 18px/28 'IBM Plex Sans'",
+              "value": "undefined italic 18px/28px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -96186,7 +96186,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "700 18px/28 'IBM Plex Sans'",
+              "value": "700 18px/28px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -96215,7 +96215,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "default",
               ],
               "type": "typography",
-              "value": "400 18px/28 'IBM Plex Sans'",
+              "value": "400 18px/28px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -96242,7 +96242,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 18px/28 'IBM Plex Sans'",
+              "value": "Italic 18px/28px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -96270,7 +96270,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 18px/28 'IBM Plex Sans'",
+              "value": "Italic 18px/28px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -96298,7 +96298,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "400 18px/28 'IBM Plex Sans'",
+              "value": "400 18px/28px 'IBM Plex Sans'",
             },
           },
         },
@@ -96329,7 +96329,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "bold",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Sans'",
+              "value": "700 16px/24px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -96356,7 +96356,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Sans'",
+              "value": "undefined italic 16px/24px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -96384,7 +96384,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Sans'",
+              "value": "undefined italic 16px/24px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -96412,7 +96412,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Sans'",
+              "value": "700 16px/24px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -96441,7 +96441,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "default",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Sans'",
+              "value": "400 16px/24px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -96468,7 +96468,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Sans'",
+              "value": "Italic 16px/24px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -96496,7 +96496,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Sans'",
+              "value": "Italic 16px/24px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -96524,7 +96524,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Sans'",
+              "value": "400 16px/24px 'IBM Plex Sans'",
             },
           },
         },
@@ -96555,7 +96555,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "bold",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Sans'",
+              "value": "700 14px/22px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -96582,7 +96582,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Sans'",
+              "value": "undefined italic 14px/22px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -96610,7 +96610,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Sans'",
+              "value": "undefined italic 14px/22px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -96638,7 +96638,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Sans'",
+              "value": "700 14px/22px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -96667,7 +96667,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "default",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Sans'",
+              "value": "400 14px/22px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -96694,7 +96694,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Sans'",
+              "value": "Italic 14px/22px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -96722,7 +96722,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Sans'",
+              "value": "Italic 14px/22px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -96750,7 +96750,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Sans'",
+              "value": "400 14px/22px 'IBM Plex Sans'",
             },
           },
         },
@@ -96781,7 +96781,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "bold",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Sans'",
+              "value": "700 20px/30px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -96808,7 +96808,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Sans'",
+              "value": "undefined italic 20px/30px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -96836,7 +96836,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Sans'",
+              "value": "undefined italic 20px/30px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -96864,7 +96864,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Sans'",
+              "value": "700 20px/30px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -96893,7 +96893,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "default",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Sans'",
+              "value": "400 20px/30px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -96920,7 +96920,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Sans'",
+              "value": "Italic 20px/30px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -96948,7 +96948,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Sans'",
+              "value": "Italic 20px/30px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -96976,7 +96976,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Sans'",
+              "value": "400 20px/30px 'IBM Plex Sans'",
             },
           },
         },
@@ -97007,7 +97007,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
               "bold",
             ],
             "type": "typography",
-            "value": "700 12px/18 'IBM Plex Sans'",
+            "value": "700 12px/18px 'IBM Plex Sans'",
           },
           "italic": {
             "attributes": {},
@@ -97033,7 +97033,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
               "italic",
             ],
             "type": "typography",
-            "value": "undefined italic 12px/18 'IBM Plex Sans'",
+            "value": "undefined italic 12px/18px 'IBM Plex Sans'",
           },
           "italic-underline": {
             "attributes": {},
@@ -97060,7 +97060,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
               "italic-underline",
             ],
             "type": "typography",
-            "value": "undefined italic 12px/18 'IBM Plex Sans'",
+            "value": "undefined italic 12px/18px 'IBM Plex Sans'",
           },
           "underline": {
             "attributes": {},
@@ -97087,7 +97087,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
               "underline",
             ],
             "type": "typography",
-            "value": "700 12px/18 'IBM Plex Sans'",
+            "value": "700 12px/18px 'IBM Plex Sans'",
           },
         },
         "regular": {
@@ -97115,7 +97115,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
               "default",
             ],
             "type": "typography",
-            "value": "400 12px/18 'IBM Plex Sans'",
+            "value": "400 12px/18px 'IBM Plex Sans'",
           },
           "italic": {
             "attributes": {},
@@ -97141,7 +97141,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
               "italic",
             ],
             "type": "typography",
-            "value": "Italic 12px/18 'IBM Plex Sans'",
+            "value": "Italic 12px/18px 'IBM Plex Sans'",
           },
           "italic-underline": {
             "attributes": {},
@@ -97168,7 +97168,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
               "italic-underline",
             ],
             "type": "typography",
-            "value": "Italic 12px/18 'IBM Plex Sans'",
+            "value": "Italic 12px/18px 'IBM Plex Sans'",
           },
           "underline": {
             "attributes": {},
@@ -97195,7 +97195,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
               "underline",
             ],
             "type": "typography",
-            "value": "400 12px/18 'IBM Plex Sans'",
+            "value": "400 12px/18px 'IBM Plex Sans'",
           },
         },
       },
@@ -97227,7 +97227,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "bold",
               ],
               "type": "typography",
-              "value": "700 18px/28 'IBM Plex Mono'",
+              "value": "700 18px/28px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -97254,7 +97254,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 18px/28 'IBM Plex Mono'",
+              "value": "undefined italic 18px/28px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -97282,7 +97282,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 18px/28 'IBM Plex Mono'",
+              "value": "undefined italic 18px/28px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -97310,7 +97310,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "700 18px/28 'IBM Plex Mono'",
+              "value": "700 18px/28px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -97339,7 +97339,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "default",
               ],
               "type": "typography",
-              "value": "400 18px/28 'IBM Plex Mono'",
+              "value": "400 18px/28px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -97366,7 +97366,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 18px/28 'IBM Plex Mono'",
+              "value": "Italic 18px/28px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -97394,7 +97394,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 18px/28 'IBM Plex Mono'",
+              "value": "Italic 18px/28px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -97422,7 +97422,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "400 18px/28 'IBM Plex Mono'",
+              "value": "400 18px/28px 'IBM Plex Mono'",
             },
           },
         },
@@ -97453,7 +97453,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "bold",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Mono'",
+              "value": "700 16px/24px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -97480,7 +97480,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Mono'",
+              "value": "undefined italic 16px/24px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -97508,7 +97508,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Mono'",
+              "value": "undefined italic 16px/24px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -97536,7 +97536,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Mono'",
+              "value": "700 16px/24px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -97565,7 +97565,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "default",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Mono'",
+              "value": "400 16px/24px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -97592,7 +97592,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Mono'",
+              "value": "Italic 16px/24px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -97620,7 +97620,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Mono'",
+              "value": "Italic 16px/24px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -97648,7 +97648,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Mono'",
+              "value": "400 16px/24px 'IBM Plex Mono'",
             },
           },
         },
@@ -97679,7 +97679,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "bold",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Mono'",
+              "value": "700 14px/22px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -97706,7 +97706,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Mono'",
+              "value": "undefined italic 14px/22px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -97734,7 +97734,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Mono'",
+              "value": "undefined italic 14px/22px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -97762,7 +97762,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Mono'",
+              "value": "700 14px/22px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -97791,7 +97791,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "default",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Mono'",
+              "value": "400 14px/22px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -97818,7 +97818,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Mono'",
+              "value": "Italic 14px/22px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -97846,7 +97846,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Mono'",
+              "value": "Italic 14px/22px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -97874,7 +97874,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Mono'",
+              "value": "400 14px/22px 'IBM Plex Mono'",
             },
           },
         },
@@ -97905,7 +97905,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "bold",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Mono'",
+              "value": "700 20px/30px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -97932,7 +97932,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Mono'",
+              "value": "undefined italic 20px/30px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -97960,7 +97960,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Mono'",
+              "value": "undefined italic 20px/30px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -97988,7 +97988,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Mono'",
+              "value": "700 20px/30px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -98017,7 +98017,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "default",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Mono'",
+              "value": "400 20px/30px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -98044,7 +98044,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Mono'",
+              "value": "Italic 20px/30px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -98072,7 +98072,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Mono'",
+              "value": "Italic 20px/30px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -98100,7 +98100,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "underline",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Mono'",
+              "value": "400 20px/30px 'IBM Plex Mono'",
             },
           },
         },
@@ -98129,7 +98129,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
             "h1",
           ],
           "type": "typography",
-          "value": "700 48px/auto Ubuntu",
+          "value": "700 48px/autopx Ubuntu",
         },
         "h2": {
           "attributes": {},
@@ -98154,7 +98154,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
             "h2",
           ],
           "type": "typography",
-          "value": "700 32px/auto Ubuntu",
+          "value": "700 32px/autopx Ubuntu",
         },
         "h3": {
           "attributes": {},
@@ -98179,7 +98179,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
             "h3",
           ],
           "type": "typography",
-          "value": "700 24px/auto Ubuntu",
+          "value": "700 24px/autopx Ubuntu",
         },
         "h4": {
           "attributes": {},
@@ -98204,7 +98204,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
             "h4",
           ],
           "type": "typography",
-          "value": "700 20px/auto Ubuntu",
+          "value": "700 20px/autopx Ubuntu",
         },
         "h5": {
           "attributes": {},
@@ -98229,7 +98229,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
             "h5",
           ],
           "type": "typography",
-          "value": "700 18px/auto Ubuntu",
+          "value": "700 18px/autopx Ubuntu",
         },
         "h6": {
           "attributes": {},
@@ -98254,7 +98254,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
             "h6",
           ],
           "type": "typography",
-          "value": "700 16px/auto Ubuntu",
+          "value": "700 16px/autopx Ubuntu",
         },
         "h7": {
           "attributes": {},
@@ -98279,7 +98279,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
             "h7",
           ],
           "type": "typography",
-          "value": "700 14px/auto Ubuntu",
+          "value": "700 14px/autopx Ubuntu",
         },
         "hero": {
           "attributes": {},
@@ -98304,7 +98304,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
             "hero",
           ],
           "type": "typography",
-          "value": "700 64px/auto Ubuntu",
+          "value": "700 64px/autopx Ubuntu",
         },
       },
       "icon": {
@@ -98334,7 +98334,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "caption",
               ],
               "type": "typography",
-              "value": "400 12px/18 'Font Awesome 6 Pro'",
+              "value": "400 12px/18px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -98360,7 +98360,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "lg",
               ],
               "type": "typography",
-              "value": "400 18px/28 'Font Awesome 6 Pro'",
+              "value": "400 18px/28px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -98386,7 +98386,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "md",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Pro'",
+              "value": "400 16px/24px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -98412,7 +98412,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "sm",
               ],
               "type": "typography",
-              "value": "400 14px/22 'Font Awesome 6 Pro'",
+              "value": "400 14px/22px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -98438,7 +98438,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "xl",
               ],
               "type": "typography",
-              "value": "400 20px/30 'Font Awesome 6 Pro'",
+              "value": "400 20px/30px 'Font Awesome 6 Pro'",
             },
           },
           "brand": {
@@ -98466,7 +98466,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "caption",
               ],
               "type": "typography",
-              "value": "400 12px/18 'Font Awesome 6 Brands'",
+              "value": "400 12px/18px 'Font Awesome 6 Brands'",
             },
             "lg": {
               "attributes": {},
@@ -98492,7 +98492,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "lg",
               ],
               "type": "typography",
-              "value": "400 18px/28 'Font Awesome 6 Brands'",
+              "value": "400 18px/28px 'Font Awesome 6 Brands'",
             },
             "md": {
               "attributes": {},
@@ -98518,7 +98518,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "md",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Brands'",
+              "value": "400 16px/24px 'Font Awesome 6 Brands'",
             },
             "sm": {
               "attributes": {},
@@ -98544,7 +98544,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "sm",
               ],
               "type": "typography",
-              "value": "400 14px/22 'Font Awesome 6 Brands'",
+              "value": "400 14px/22px 'Font Awesome 6 Brands'",
             },
             "xl": {
               "attributes": {},
@@ -98570,7 +98570,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "xl",
               ],
               "type": "typography",
-              "value": "400 20px/30 'Font Awesome 6 Brands'",
+              "value": "400 20px/30px 'Font Awesome 6 Brands'",
             },
           },
           "regular": {
@@ -98598,7 +98598,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "caption",
               ],
               "type": "typography",
-              "value": "300 12px/18 'Font Awesome 6 Pro'",
+              "value": "300 12px/18px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -98624,7 +98624,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "lg",
               ],
               "type": "typography",
-              "value": "300 18px/28 'Font Awesome 6 Pro'",
+              "value": "300 18px/28px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -98650,7 +98650,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "md",
               ],
               "type": "typography",
-              "value": "300 16px/24 'Font Awesome 6 Pro'",
+              "value": "300 16px/24px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -98676,7 +98676,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "sm",
               ],
               "type": "typography",
-              "value": "300 14px/22 'Font Awesome 6 Pro'",
+              "value": "300 14px/22px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -98702,7 +98702,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "xl",
               ],
               "type": "typography",
-              "value": "300 20px/30 'Font Awesome 6 Pro'",
+              "value": "300 20px/30px 'Font Awesome 6 Pro'",
             },
           },
         },
@@ -98732,7 +98732,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "2xl",
               ],
               "type": "typography",
-              "value": "400 64px/96 'Font Awesome 6 Pro'",
+              "value": "400 64px/96px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -98758,7 +98758,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "lg",
               ],
               "type": "typography",
-              "value": "400 32px/48 'Font Awesome 6 Pro'",
+              "value": "400 32px/48px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -98784,7 +98784,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "md",
               ],
               "type": "typography",
-              "value": "400 20px/32 'Font Awesome 6 Pro'",
+              "value": "400 20px/32px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -98810,7 +98810,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "sm",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Pro'",
+              "value": "400 16px/24px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -98836,7 +98836,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "xl",
               ],
               "type": "typography",
-              "value": "400 40px/64 'Font Awesome 6 Pro'",
+              "value": "400 40px/64px 'Font Awesome 6 Pro'",
             },
           },
           "brand": {
@@ -98864,7 +98864,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "2xl",
               ],
               "type": "typography",
-              "value": "400 64px/96 'Font Awesome 6 Brands'",
+              "value": "400 64px/96px 'Font Awesome 6 Brands'",
             },
             "lg": {
               "attributes": {},
@@ -98890,7 +98890,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "lg",
               ],
               "type": "typography",
-              "value": "400 32px/48 'Font Awesome 6 Brands'",
+              "value": "400 32px/48px 'Font Awesome 6 Brands'",
             },
             "md": {
               "attributes": {},
@@ -98916,7 +98916,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "md",
               ],
               "type": "typography",
-              "value": "400 20px/32 'Font Awesome 6 Brands'",
+              "value": "400 20px/32px 'Font Awesome 6 Brands'",
             },
             "sm": {
               "attributes": {},
@@ -98942,7 +98942,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "sm",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Brands'",
+              "value": "400 16px/24px 'Font Awesome 6 Brands'",
             },
             "xl": {
               "attributes": {},
@@ -98968,7 +98968,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "xl",
               ],
               "type": "typography",
-              "value": "400 40px/64 'Font Awesome 6 Brands'",
+              "value": "400 40px/64px 'Font Awesome 6 Brands'",
             },
           },
           "regular": {
@@ -98996,7 +98996,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "2xl",
               ],
               "type": "typography",
-              "value": "300 64px/96 'Font Awesome 6 Pro'",
+              "value": "300 64px/96px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -99022,7 +99022,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "lg",
               ],
               "type": "typography",
-              "value": "300 32px/48 'Font Awesome 6 Pro'",
+              "value": "300 32px/48px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -99048,7 +99048,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "md",
               ],
               "type": "typography",
-              "value": "300 20px/32 'Font Awesome 6 Pro'",
+              "value": "300 20px/32px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -99074,7 +99074,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "sm",
               ],
               "type": "typography",
-              "value": "300 16px/24 'Font Awesome 6 Pro'",
+              "value": "300 16px/24px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -99100,7 +99100,7 @@ exports[`Tailwind Exports Should generate Mobile Semantic CSS variables properly
                 "xl",
               ],
               "type": "typography",
-              "value": "300 40px/64 'Font Awesome 6 Pro'",
+              "value": "300 40px/64px 'Font Awesome 6 Pro'",
             },
           },
         },
@@ -101437,7 +101437,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "50",
         ],
         "type": "borderWidth",
-        "value": 0,
+        "value": "0",
       },
       "75": {
         "attributes": {
@@ -117378,7 +117378,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "bold",
         ],
         "type": "fontWeights",
-        "value": 700,
+        "value": "700",
       },
       "boldItalic": {
         "attributes": {
@@ -117444,7 +117444,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "light",
         ],
         "type": "fontWeights",
-        "value": 300,
+        "value": "300",
       },
       "regular": {
         "attributes": {
@@ -117466,7 +117466,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "regular",
         ],
         "type": "fontWeights",
-        "value": 400,
+        "value": "400",
       },
     },
     "lineHeight": {
@@ -117511,7 +117511,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "100",
         ],
         "type": "lineHeights",
-        "value": 18,
+        "value": "18px",
       },
       "1000": {
         "attributes": {
@@ -117554,7 +117554,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "1000",
         ],
         "type": "lineHeights",
-        "value": 96,
+        "value": "96px",
       },
       "200": {
         "attributes": {
@@ -117597,7 +117597,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "200",
         ],
         "type": "lineHeights",
-        "value": 22,
+        "value": "22px",
       },
       "300": {
         "attributes": {
@@ -117640,7 +117640,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "300",
         ],
         "type": "lineHeights",
-        "value": 24,
+        "value": "24px",
       },
       "400": {
         "attributes": {
@@ -117683,7 +117683,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "400",
         ],
         "type": "lineHeights",
-        "value": 28,
+        "value": "28px",
       },
       "500": {
         "attributes": {
@@ -117726,7 +117726,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "500",
         ],
         "type": "lineHeights",
-        "value": 30,
+        "value": "30px",
       },
       "600": {
         "attributes": {
@@ -117769,7 +117769,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "600",
         ],
         "type": "lineHeights",
-        "value": 32,
+        "value": "32px",
       },
       "700": {
         "attributes": {
@@ -117812,7 +117812,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "700",
         ],
         "type": "lineHeights",
-        "value": 36,
+        "value": "36px",
       },
       "800": {
         "attributes": {
@@ -117855,7 +117855,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "800",
         ],
         "type": "lineHeights",
-        "value": 48,
+        "value": "48px",
       },
       "900": {
         "attributes": {
@@ -117898,7 +117898,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "900",
         ],
         "type": "lineHeights",
-        "value": 64,
+        "value": "64px",
       },
       "auto": {
         "attributes": {
@@ -117920,7 +117920,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "auto",
         ],
         "type": "lineHeights",
-        "value": "auto",
+        "value": "autopx",
       },
     },
     "opacity": {
@@ -117944,7 +117944,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "100",
         ],
         "type": "opacity",
-        "value": 0.08,
+        "value": "0.08",
       },
       "1000": {
         "attributes": {
@@ -117966,7 +117966,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "1000",
         ],
         "type": "opacity",
-        "value": 0.8,
+        "value": "0.8",
       },
       "1100": {
         "attributes": {
@@ -117988,7 +117988,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "1100",
         ],
         "type": "opacity",
-        "value": 0.88,
+        "value": "0.88",
       },
       "1200": {
         "attributes": {
@@ -118010,7 +118010,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "1200",
         ],
         "type": "opacity",
-        "value": 0.96,
+        "value": "0.96",
       },
       "1300": {
         "attributes": {
@@ -118032,7 +118032,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "1300",
         ],
         "type": "opacity",
-        "value": 1,
+        "value": "1",
       },
       "200": {
         "attributes": {
@@ -118054,7 +118054,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "200",
         ],
         "type": "opacity",
-        "value": 0.16,
+        "value": "0.16",
       },
       "300": {
         "attributes": {
@@ -118076,7 +118076,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "300",
         ],
         "type": "opacity",
-        "value": 0.24,
+        "value": "0.24",
       },
       "400": {
         "attributes": {
@@ -118098,7 +118098,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "400",
         ],
         "type": "opacity",
-        "value": 0.32,
+        "value": "0.32",
       },
       "50": {
         "attributes": {
@@ -118120,7 +118120,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "50",
         ],
         "type": "opacity",
-        "value": 0,
+        "value": "0",
       },
       "500": {
         "attributes": {
@@ -118142,7 +118142,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "500",
         ],
         "type": "opacity",
-        "value": 0.4,
+        "value": "0.4",
       },
       "600": {
         "attributes": {
@@ -118164,7 +118164,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "600",
         ],
         "type": "opacity",
-        "value": 0.48,
+        "value": "0.48",
       },
       "700": {
         "attributes": {
@@ -118186,7 +118186,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "700",
         ],
         "type": "opacity",
-        "value": 0.56,
+        "value": "0.56",
       },
       "800": {
         "attributes": {
@@ -118208,7 +118208,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "800",
         ],
         "type": "opacity",
-        "value": 0.64,
+        "value": "0.64",
       },
       "900": {
         "attributes": {
@@ -118230,7 +118230,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
           "900",
         ],
         "type": "opacity",
-        "value": 0.72,
+        "value": "0.72",
       },
     },
     "paragraphSpacing": {
@@ -122000,7 +122000,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "bold",
               ],
               "type": "typography",
-              "value": "700 18px/28 'IBM Plex Sans'",
+              "value": "700 18px/28px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -122027,7 +122027,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 18px/28 'IBM Plex Sans'",
+              "value": "undefined italic 18px/28px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -122055,7 +122055,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 18px/28 'IBM Plex Sans'",
+              "value": "undefined italic 18px/28px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -122083,7 +122083,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "700 18px/28 'IBM Plex Sans'",
+              "value": "700 18px/28px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -122112,7 +122112,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "default",
               ],
               "type": "typography",
-              "value": "400 18px/28 'IBM Plex Sans'",
+              "value": "400 18px/28px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -122139,7 +122139,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 18px/28 'IBM Plex Sans'",
+              "value": "Italic 18px/28px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -122167,7 +122167,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 18px/28 'IBM Plex Sans'",
+              "value": "Italic 18px/28px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -122195,7 +122195,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "400 18px/28 'IBM Plex Sans'",
+              "value": "400 18px/28px 'IBM Plex Sans'",
             },
           },
         },
@@ -122226,7 +122226,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "bold",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Sans'",
+              "value": "700 16px/24px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -122253,7 +122253,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Sans'",
+              "value": "undefined italic 16px/24px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -122281,7 +122281,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Sans'",
+              "value": "undefined italic 16px/24px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -122309,7 +122309,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Sans'",
+              "value": "700 16px/24px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -122338,7 +122338,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "default",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Sans'",
+              "value": "400 16px/24px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -122365,7 +122365,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Sans'",
+              "value": "Italic 16px/24px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -122393,7 +122393,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Sans'",
+              "value": "Italic 16px/24px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -122421,7 +122421,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Sans'",
+              "value": "400 16px/24px 'IBM Plex Sans'",
             },
           },
         },
@@ -122452,7 +122452,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "bold",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Sans'",
+              "value": "700 14px/22px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -122479,7 +122479,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Sans'",
+              "value": "undefined italic 14px/22px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -122507,7 +122507,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Sans'",
+              "value": "undefined italic 14px/22px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -122535,7 +122535,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Sans'",
+              "value": "700 14px/22px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -122564,7 +122564,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "default",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Sans'",
+              "value": "400 14px/22px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -122591,7 +122591,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Sans'",
+              "value": "Italic 14px/22px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -122619,7 +122619,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Sans'",
+              "value": "Italic 14px/22px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -122647,7 +122647,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Sans'",
+              "value": "400 14px/22px 'IBM Plex Sans'",
             },
           },
         },
@@ -122678,7 +122678,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "bold",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Sans'",
+              "value": "700 20px/30px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -122705,7 +122705,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Sans'",
+              "value": "undefined italic 20px/30px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -122733,7 +122733,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Sans'",
+              "value": "undefined italic 20px/30px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -122761,7 +122761,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Sans'",
+              "value": "700 20px/30px 'IBM Plex Sans'",
             },
           },
           "regular": {
@@ -122790,7 +122790,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "default",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Sans'",
+              "value": "400 20px/30px 'IBM Plex Sans'",
             },
             "italic": {
               "attributes": {},
@@ -122817,7 +122817,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Sans'",
+              "value": "Italic 20px/30px 'IBM Plex Sans'",
             },
             "italic-underline": {
               "attributes": {},
@@ -122845,7 +122845,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Sans'",
+              "value": "Italic 20px/30px 'IBM Plex Sans'",
             },
             "underline": {
               "attributes": {},
@@ -122873,7 +122873,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Sans'",
+              "value": "400 20px/30px 'IBM Plex Sans'",
             },
           },
         },
@@ -122904,7 +122904,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
               "bold",
             ],
             "type": "typography",
-            "value": "700 12px/18 'IBM Plex Sans'",
+            "value": "700 12px/18px 'IBM Plex Sans'",
           },
           "italic": {
             "attributes": {},
@@ -122930,7 +122930,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
               "italic",
             ],
             "type": "typography",
-            "value": "undefined italic 12px/18 'IBM Plex Sans'",
+            "value": "undefined italic 12px/18px 'IBM Plex Sans'",
           },
           "italic-underline": {
             "attributes": {},
@@ -122957,7 +122957,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
               "italic-underline",
             ],
             "type": "typography",
-            "value": "undefined italic 12px/18 'IBM Plex Sans'",
+            "value": "undefined italic 12px/18px 'IBM Plex Sans'",
           },
           "underline": {
             "attributes": {},
@@ -122984,7 +122984,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
               "underline",
             ],
             "type": "typography",
-            "value": "700 12px/18 'IBM Plex Sans'",
+            "value": "700 12px/18px 'IBM Plex Sans'",
           },
         },
         "regular": {
@@ -123012,7 +123012,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
               "default",
             ],
             "type": "typography",
-            "value": "400 12px/18 'IBM Plex Sans'",
+            "value": "400 12px/18px 'IBM Plex Sans'",
           },
           "italic": {
             "attributes": {},
@@ -123038,7 +123038,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
               "italic",
             ],
             "type": "typography",
-            "value": "Italic 12px/18 'IBM Plex Sans'",
+            "value": "Italic 12px/18px 'IBM Plex Sans'",
           },
           "italic-underline": {
             "attributes": {},
@@ -123065,7 +123065,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
               "italic-underline",
             ],
             "type": "typography",
-            "value": "Italic 12px/18 'IBM Plex Sans'",
+            "value": "Italic 12px/18px 'IBM Plex Sans'",
           },
           "underline": {
             "attributes": {},
@@ -123092,7 +123092,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
               "underline",
             ],
             "type": "typography",
-            "value": "400 12px/18 'IBM Plex Sans'",
+            "value": "400 12px/18px 'IBM Plex Sans'",
           },
         },
       },
@@ -123124,7 +123124,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "bold",
               ],
               "type": "typography",
-              "value": "700 18px/28 'IBM Plex Mono'",
+              "value": "700 18px/28px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -123151,7 +123151,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 18px/28 'IBM Plex Mono'",
+              "value": "undefined italic 18px/28px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -123179,7 +123179,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 18px/28 'IBM Plex Mono'",
+              "value": "undefined italic 18px/28px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -123207,7 +123207,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "700 18px/28 'IBM Plex Mono'",
+              "value": "700 18px/28px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -123236,7 +123236,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "default",
               ],
               "type": "typography",
-              "value": "400 18px/28 'IBM Plex Mono'",
+              "value": "400 18px/28px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -123263,7 +123263,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 18px/28 'IBM Plex Mono'",
+              "value": "Italic 18px/28px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -123291,7 +123291,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 18px/28 'IBM Plex Mono'",
+              "value": "Italic 18px/28px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -123319,7 +123319,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "400 18px/28 'IBM Plex Mono'",
+              "value": "400 18px/28px 'IBM Plex Mono'",
             },
           },
         },
@@ -123350,7 +123350,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "bold",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Mono'",
+              "value": "700 16px/24px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -123377,7 +123377,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Mono'",
+              "value": "undefined italic 16px/24px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -123405,7 +123405,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 16px/24 'IBM Plex Mono'",
+              "value": "undefined italic 16px/24px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -123433,7 +123433,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "700 16px/24 'IBM Plex Mono'",
+              "value": "700 16px/24px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -123462,7 +123462,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "default",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Mono'",
+              "value": "400 16px/24px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -123489,7 +123489,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Mono'",
+              "value": "Italic 16px/24px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -123517,7 +123517,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 16px/24 'IBM Plex Mono'",
+              "value": "Italic 16px/24px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -123545,7 +123545,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "400 16px/24 'IBM Plex Mono'",
+              "value": "400 16px/24px 'IBM Plex Mono'",
             },
           },
         },
@@ -123576,7 +123576,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "bold",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Mono'",
+              "value": "700 14px/22px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -123603,7 +123603,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Mono'",
+              "value": "undefined italic 14px/22px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -123631,7 +123631,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 14px/22 'IBM Plex Mono'",
+              "value": "undefined italic 14px/22px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -123659,7 +123659,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "700 14px/22 'IBM Plex Mono'",
+              "value": "700 14px/22px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -123688,7 +123688,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "default",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Mono'",
+              "value": "400 14px/22px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -123715,7 +123715,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Mono'",
+              "value": "Italic 14px/22px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -123743,7 +123743,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 14px/22 'IBM Plex Mono'",
+              "value": "Italic 14px/22px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -123771,7 +123771,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "400 14px/22 'IBM Plex Mono'",
+              "value": "400 14px/22px 'IBM Plex Mono'",
             },
           },
         },
@@ -123802,7 +123802,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "bold",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Mono'",
+              "value": "700 20px/30px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -123829,7 +123829,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Mono'",
+              "value": "undefined italic 20px/30px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -123857,7 +123857,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "undefined italic 20px/30 'IBM Plex Mono'",
+              "value": "undefined italic 20px/30px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -123885,7 +123885,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "700 20px/30 'IBM Plex Mono'",
+              "value": "700 20px/30px 'IBM Plex Mono'",
             },
           },
           "regular": {
@@ -123914,7 +123914,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "default",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Mono'",
+              "value": "400 20px/30px 'IBM Plex Mono'",
             },
             "italic": {
               "attributes": {},
@@ -123941,7 +123941,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Mono'",
+              "value": "Italic 20px/30px 'IBM Plex Mono'",
             },
             "italic-underline": {
               "attributes": {},
@@ -123969,7 +123969,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "italic-underline",
               ],
               "type": "typography",
-              "value": "Italic 20px/30 'IBM Plex Mono'",
+              "value": "Italic 20px/30px 'IBM Plex Mono'",
             },
             "underline": {
               "attributes": {},
@@ -123997,7 +123997,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "underline",
               ],
               "type": "typography",
-              "value": "400 20px/30 'IBM Plex Mono'",
+              "value": "400 20px/30px 'IBM Plex Mono'",
             },
           },
         },
@@ -124026,7 +124026,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
             "h1",
           ],
           "type": "typography",
-          "value": "700 48px/auto Ubuntu",
+          "value": "700 48px/autopx Ubuntu",
         },
         "h2": {
           "attributes": {},
@@ -124051,7 +124051,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
             "h2",
           ],
           "type": "typography",
-          "value": "700 32px/auto Ubuntu",
+          "value": "700 32px/autopx Ubuntu",
         },
         "h3": {
           "attributes": {},
@@ -124076,7 +124076,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
             "h3",
           ],
           "type": "typography",
-          "value": "700 24px/auto Ubuntu",
+          "value": "700 24px/autopx Ubuntu",
         },
         "h4": {
           "attributes": {},
@@ -124101,7 +124101,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
             "h4",
           ],
           "type": "typography",
-          "value": "700 20px/auto Ubuntu",
+          "value": "700 20px/autopx Ubuntu",
         },
         "h5": {
           "attributes": {},
@@ -124126,7 +124126,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
             "h5",
           ],
           "type": "typography",
-          "value": "700 18px/auto Ubuntu",
+          "value": "700 18px/autopx Ubuntu",
         },
         "h6": {
           "attributes": {},
@@ -124151,7 +124151,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
             "h6",
           ],
           "type": "typography",
-          "value": "700 16px/auto Ubuntu",
+          "value": "700 16px/autopx Ubuntu",
         },
         "h7": {
           "attributes": {},
@@ -124176,7 +124176,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
             "h7",
           ],
           "type": "typography",
-          "value": "700 14px/auto Ubuntu",
+          "value": "700 14px/autopx Ubuntu",
         },
         "hero": {
           "attributes": {},
@@ -124201,7 +124201,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
             "hero",
           ],
           "type": "typography",
-          "value": "700 64px/auto Ubuntu",
+          "value": "700 64px/autopx Ubuntu",
         },
       },
       "icon": {
@@ -124231,7 +124231,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "caption",
               ],
               "type": "typography",
-              "value": "400 12px/18 'Font Awesome 6 Pro'",
+              "value": "400 12px/18px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -124257,7 +124257,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "lg",
               ],
               "type": "typography",
-              "value": "400 18px/28 'Font Awesome 6 Pro'",
+              "value": "400 18px/28px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -124283,7 +124283,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "md",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Pro'",
+              "value": "400 16px/24px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -124309,7 +124309,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "sm",
               ],
               "type": "typography",
-              "value": "400 14px/22 'Font Awesome 6 Pro'",
+              "value": "400 14px/22px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -124335,7 +124335,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "xl",
               ],
               "type": "typography",
-              "value": "400 20px/30 'Font Awesome 6 Pro'",
+              "value": "400 20px/30px 'Font Awesome 6 Pro'",
             },
           },
           "brand": {
@@ -124363,7 +124363,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "caption",
               ],
               "type": "typography",
-              "value": "400 12px/18 'Font Awesome 6 Brands'",
+              "value": "400 12px/18px 'Font Awesome 6 Brands'",
             },
             "lg": {
               "attributes": {},
@@ -124389,7 +124389,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "lg",
               ],
               "type": "typography",
-              "value": "400 18px/28 'Font Awesome 6 Brands'",
+              "value": "400 18px/28px 'Font Awesome 6 Brands'",
             },
             "md": {
               "attributes": {},
@@ -124415,7 +124415,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "md",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Brands'",
+              "value": "400 16px/24px 'Font Awesome 6 Brands'",
             },
             "sm": {
               "attributes": {},
@@ -124441,7 +124441,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "sm",
               ],
               "type": "typography",
-              "value": "400 14px/22 'Font Awesome 6 Brands'",
+              "value": "400 14px/22px 'Font Awesome 6 Brands'",
             },
             "xl": {
               "attributes": {},
@@ -124467,7 +124467,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "xl",
               ],
               "type": "typography",
-              "value": "400 20px/30 'Font Awesome 6 Brands'",
+              "value": "400 20px/30px 'Font Awesome 6 Brands'",
             },
           },
           "regular": {
@@ -124495,7 +124495,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "caption",
               ],
               "type": "typography",
-              "value": "300 12px/18 'Font Awesome 6 Pro'",
+              "value": "300 12px/18px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -124521,7 +124521,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "lg",
               ],
               "type": "typography",
-              "value": "300 18px/28 'Font Awesome 6 Pro'",
+              "value": "300 18px/28px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -124547,7 +124547,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "md",
               ],
               "type": "typography",
-              "value": "300 16px/24 'Font Awesome 6 Pro'",
+              "value": "300 16px/24px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -124573,7 +124573,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "sm",
               ],
               "type": "typography",
-              "value": "300 14px/22 'Font Awesome 6 Pro'",
+              "value": "300 14px/22px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -124599,7 +124599,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "xl",
               ],
               "type": "typography",
-              "value": "300 20px/30 'Font Awesome 6 Pro'",
+              "value": "300 20px/30px 'Font Awesome 6 Pro'",
             },
           },
         },
@@ -124629,7 +124629,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "2xl",
               ],
               "type": "typography",
-              "value": "400 64px/96 'Font Awesome 6 Pro'",
+              "value": "400 64px/96px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -124655,7 +124655,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "lg",
               ],
               "type": "typography",
-              "value": "400 32px/48 'Font Awesome 6 Pro'",
+              "value": "400 32px/48px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -124681,7 +124681,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "md",
               ],
               "type": "typography",
-              "value": "400 20px/32 'Font Awesome 6 Pro'",
+              "value": "400 20px/32px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -124707,7 +124707,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "sm",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Pro'",
+              "value": "400 16px/24px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -124733,7 +124733,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "xl",
               ],
               "type": "typography",
-              "value": "400 40px/64 'Font Awesome 6 Pro'",
+              "value": "400 40px/64px 'Font Awesome 6 Pro'",
             },
           },
           "brand": {
@@ -124761,7 +124761,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "2xl",
               ],
               "type": "typography",
-              "value": "400 64px/96 'Font Awesome 6 Brands'",
+              "value": "400 64px/96px 'Font Awesome 6 Brands'",
             },
             "lg": {
               "attributes": {},
@@ -124787,7 +124787,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "lg",
               ],
               "type": "typography",
-              "value": "400 32px/48 'Font Awesome 6 Brands'",
+              "value": "400 32px/48px 'Font Awesome 6 Brands'",
             },
             "md": {
               "attributes": {},
@@ -124813,7 +124813,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "md",
               ],
               "type": "typography",
-              "value": "400 20px/32 'Font Awesome 6 Brands'",
+              "value": "400 20px/32px 'Font Awesome 6 Brands'",
             },
             "sm": {
               "attributes": {},
@@ -124839,7 +124839,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "sm",
               ],
               "type": "typography",
-              "value": "400 16px/24 'Font Awesome 6 Brands'",
+              "value": "400 16px/24px 'Font Awesome 6 Brands'",
             },
             "xl": {
               "attributes": {},
@@ -124865,7 +124865,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "xl",
               ],
               "type": "typography",
-              "value": "400 40px/64 'Font Awesome 6 Brands'",
+              "value": "400 40px/64px 'Font Awesome 6 Brands'",
             },
           },
           "regular": {
@@ -124893,7 +124893,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "2xl",
               ],
               "type": "typography",
-              "value": "300 64px/96 'Font Awesome 6 Pro'",
+              "value": "300 64px/96px 'Font Awesome 6 Pro'",
             },
             "lg": {
               "attributes": {},
@@ -124919,7 +124919,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "lg",
               ],
               "type": "typography",
-              "value": "300 32px/48 'Font Awesome 6 Pro'",
+              "value": "300 32px/48px 'Font Awesome 6 Pro'",
             },
             "md": {
               "attributes": {},
@@ -124945,7 +124945,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "md",
               ],
               "type": "typography",
-              "value": "300 20px/32 'Font Awesome 6 Pro'",
+              "value": "300 20px/32px 'Font Awesome 6 Pro'",
             },
             "sm": {
               "attributes": {},
@@ -124971,7 +124971,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "sm",
               ],
               "type": "typography",
-              "value": "300 16px/24 'Font Awesome 6 Pro'",
+              "value": "300 16px/24px 'Font Awesome 6 Pro'",
             },
             "xl": {
               "attributes": {},
@@ -124997,7 +124997,7 @@ exports[`Tailwind Exports Should generate Tailwind Theme Config properly 1`] = `
                 "xl",
               ],
               "type": "typography",
-              "value": "300 40px/64 'Font Awesome 6 Pro'",
+              "value": "300 40px/64px 'Font Awesome 6 Pro'",
             },
           },
         },

@@ -10,6 +10,7 @@ import TailwindFormatter from '../../formatters/tailwind.formatter';
 import {
   paragraphSpacingTransformer,
   spacingNameTransformer,
+  stringValueTransformer,
   tailwindTransforms,
   tokenPathTransformer,
 } from '../../transformers/tailwind.transformers';
@@ -24,6 +25,7 @@ StyleDictionary.registerTransform(tokenPathTransformer);
 StyleDictionary.registerFormat(TailwindFormatter);
 StyleDictionary.registerAction(makeStylesAction);
 StyleDictionary.registerFormat(desktopTargetFormatter);
+StyleDictionary.registerTransform(stringValueTransformer);
 
 export const CoreSdConfig = StyleDictionary.extend({
   source: [RAW_CORE_SOURCE_FOLDER],
