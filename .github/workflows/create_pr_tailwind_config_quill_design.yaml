@@ -41,4 +41,4 @@ jobs:
         destination_head_branch: ${{format( 'update-quill-tailwind-tokens-{0}', steps.time.outputs.time )}}
         user_email: 'mohsen@regentmarkets.com'
         user_name: 'mohsen-deriv'
-        pull_request_reviewers: 'mohsen-deriv,prince-deriv'
+        pull_request_reviewers: 'mohsen-deriv,prince-deriv,yashim-deriv'
