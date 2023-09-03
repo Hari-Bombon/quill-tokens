@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - dist/quill-tailwind
 
 jobs:
   pull-request:
