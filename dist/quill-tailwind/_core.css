@@ -594,7 +594,7 @@
   --core-line-height-800: 48px; /* 3rem */
   --core-line-height-900: 64px; /* 4rem */
   --core-line-height-1000: 96px; /* 6rem */
-  --core-line-height-auto: autopx;
+  --core-line-height-auto: auto;
   --core-font-decoration-underline: underline;
   --core-paragraph-spacing-50: 12px; /* 0.75 rem */
   --core-paragraph-spacing-75: 14px; /* 0.875rem */
